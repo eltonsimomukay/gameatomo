@@ -1,0 +1,4292 @@
+[
+  {
+    "id": "base-4-4-0",
+    "topic": "Vidrarias",
+    "difficulty": 4,
+    "q": "Qual é a função do erlenmeyer em uma titulação?",
+    "a": [
+      "receber a solução sob agitação",
+      "medir massa exata",
+      "secar precipitado",
+      "determinar pH sozinho"
+    ],
+    "correct": 0,
+    "phase": 2,
+    "explanation": "Resposta: receber a solução sob agitação. Cada vidraria possui uma finalidade e um nível de precisão apropriado."
+  },
+  {
+    "id": "base-6-10-0",
+    "topic": "Análise qualitativa",
+    "difficulty": 6,
+    "q": "A seletividade de um reagente indica...",
+    "a": [
+      "preferência de reação por certas espécies",
+      "volume do frasco",
+      "massa do béquer",
+      "temperatura da sala"
+    ],
+    "correct": 0,
+    "phase": 2,
+    "explanation": "Resposta: preferência de reação por certas espécies. A identificação de espécies deve considerar observações e interferências."
+  },
+  {
+    "id": "base-3-4-0",
+    "topic": "Precipitados",
+    "difficulty": 3,
+    "q": "O BaSO₄ precipitado é tipicamente...",
+    "a": [
+      "branco",
+      "vermelho",
+      "azul",
+      "roxo"
+    ],
+    "correct": 0,
+    "phase": 3,
+    "explanation": "Resposta: branco. A formação de sólidos depende da solubilidade e das condições da solução."
+  },
+  {
+    "id": "base-3-14-0",
+    "topic": "Precipitados",
+    "difficulty": 3,
+    "q": "A equação iônica líquida de AgCl é...",
+    "a": [
+      "Ag⁺ + Cl⁻ → AgCl(s)",
+      "Na⁺ + Cl⁻ → NaCl(s)",
+      "Ag⁺ + NO₃⁻ → AgNO₃(s)",
+      "H⁺ + Cl⁻ → HCl(s)"
+    ],
+    "correct": 0,
+    "phase": 3,
+    "explanation": "Resposta: Ag⁺ + Cl⁻ → AgCl(s). A formação de sólidos depende da solubilidade e das condições da solução."
+  },
+  {
+    "id": "base-2-3-0",
+    "topic": "Cátions e ânions",
+    "difficulty": 2,
+    "q": "O íon amônio é representado por...",
+    "a": [
+      "NH₄⁺",
+      "NH₃⁻",
+      "NO₃⁻",
+      "N₂⁺"
+    ],
+    "correct": 0,
+    "phase": 1,
+    "explanation": "Resposta: NH₄⁺. A carga elétrica distingue cátions positivos e ânions negativos."
+  },
+  {
+    "id": "base-5-15-0",
+    "topic": "Gravimetria",
+    "difficulty": 5,
+    "q": "A massa do precipitado é obtida por...",
+    "a": [
+      "diferença entre massa do conjunto e do recipiente",
+      "leitura de pH",
+      "volume da bureta",
+      "cor do indicador"
+    ],
+    "correct": 0,
+    "phase": 3,
+    "explanation": "Resposta: diferença entre massa do conjunto e do recipiente. A gravimetria exige controle da formação, isolamento e pesagem do sólido."
+  },
+  {
+    "id": "base-5-13-0",
+    "topic": "Gravimetria",
+    "difficulty": 5,
+    "q": "A precipitação quantitativa busca...",
+    "a": [
+      "minimizar analito remanescente em solução",
+      "aumentar solubilidade",
+      "gerar gás",
+      "impedir filtração"
+    ],
+    "correct": 0,
+    "phase": 3,
+    "explanation": "Resposta: minimizar analito remanescente em solução. A gravimetria exige controle da formação, isolamento e pesagem do sólido."
+  },
+  {
+    "id": "base-1-2-0",
+    "topic": "pH e indicadores",
+    "difficulty": 1,
+    "q": "O pH de uma solução neutra a 25 °C é aproximadamente...",
+    "a": [
+      "7",
+      "0",
+      "14",
+      "2"
+    ],
+    "correct": 0,
+    "phase": 1,
+    "explanation": "Resposta: 7. O pH e os indicadores ajudam a caracterizar o comportamento ácido-base."
+  },
+  {
+    "id": "base-1-6-0",
+    "topic": "pH e indicadores",
+    "difficulty": 1,
+    "q": "Uma solução fortemente alcalina apresenta geralmente...",
+    "a": [
+      "pH elevado",
+      "pH sempre zero",
+      "Ausência de OH⁻",
+      "Cor azul obrigatória"
+    ],
+    "correct": 0,
+    "phase": 1,
+    "explanation": "Resposta: pH elevado. O pH e os indicadores ajudam a caracterizar o comportamento ácido-base."
+  },
+  {
+    "id": "base-1-1-0",
+    "topic": "pH e indicadores",
+    "difficulty": 1,
+    "q": "Uma solução com pH abaixo de 7 a 25 °C é geralmente...",
+    "a": [
+      "Ácida",
+      "Básica",
+      "Neutra",
+      "Obrigatoriamente saturada"
+    ],
+    "correct": 0,
+    "phase": 1,
+    "explanation": "Resposta: Ácida. O pH e os indicadores ajudam a caracterizar o comportamento ácido-base."
+  },
+  {
+    "id": "base-4-6-0",
+    "topic": "Vidrarias",
+    "difficulty": 4,
+    "q": "A proveta serve para...",
+    "a": [
+      "medir volumes aproximados",
+      "pesar sólidos",
+      "determinar condutividade",
+      "secar amostras"
+    ],
+    "correct": 0,
+    "phase": 2,
+    "explanation": "Resposta: medir volumes aproximados. Cada vidraria possui uma finalidade e um nível de precisão apropriado."
+  },
+  {
+    "id": "base-6-4-0",
+    "topic": "Análise qualitativa",
+    "difficulty": 6,
+    "q": "O teste de chama do potássio pode produzir cor...",
+    "a": [
+      "lilás",
+      "amarelo intenso",
+      "preto",
+      "branco"
+    ],
+    "correct": 0,
+    "phase": 2,
+    "explanation": "Resposta: lilás. A identificação de espécies deve considerar observações e interferências."
+  },
+  {
+    "id": "base-2-13-0",
+    "topic": "Cátions e ânions",
+    "difficulty": 2,
+    "q": "A espécie HCO₃⁻ chama-se...",
+    "a": [
+      "bicarbonato",
+      "carbonato",
+      "clorato",
+      "sulfato"
+    ],
+    "correct": 0,
+    "phase": 1,
+    "explanation": "Resposta: bicarbonato. A carga elétrica distingue cátions positivos e ânions negativos."
+  },
+  {
+    "id": "base-6-9-0",
+    "topic": "Análise qualitativa",
+    "difficulty": 6,
+    "q": "A centrifugação ajuda a...",
+    "a": [
+      "separar sólido suspenso do sobrenadante",
+      "medir pH",
+      "identificar todos os íons sozinha",
+      "secar por calcinação"
+    ],
+    "correct": 0,
+    "phase": 2,
+    "explanation": "Resposta: separar sólido suspenso do sobrenadante. A identificação de espécies deve considerar observações e interferências."
+  },
+  {
+    "id": "base-3-9-0",
+    "topic": "Precipitados",
+    "difficulty": 3,
+    "q": "O Cu(OH)₂ precipitado é geralmente...",
+    "a": [
+      "azul",
+      "branco",
+      "amarelo",
+      "vermelho"
+    ],
+    "correct": 0,
+    "phase": 3,
+    "explanation": "Resposta: azul. A formação de sólidos depende da solubilidade e das condições da solução."
+  },
+  {
+    "id": "base-1-13-0",
+    "topic": "pH e indicadores",
+    "difficulty": 1,
+    "q": "O eletrodo de vidro é usado em...",
+    "a": [
+      "pHmetros",
+      "balanças analíticas",
+      "estufas",
+      "centrífugas"
+    ],
+    "correct": 0,
+    "phase": 1,
+    "explanation": "Resposta: pHmetros. O pH e os indicadores ajudam a caracterizar o comportamento ácido-base."
+  },
+  {
+    "id": "base-6-14-0",
+    "topic": "Análise qualitativa",
+    "difficulty": 6,
+    "q": "A complexação pode alterar...",
+    "a": [
+      "cor e solubilidade de espécies",
+      "número atômico",
+      "massa dos prótons",
+      "identidade do elemento"
+    ],
+    "correct": 0,
+    "phase": 2,
+    "explanation": "Resposta: cor e solubilidade de espécies. A identificação de espécies deve considerar observações e interferências."
+  },
+  {
+    "id": "base-2-8-0",
+    "topic": "Cátions e ânions",
+    "difficulty": 2,
+    "q": "O ânion fosfato é...",
+    "a": [
+      "PO₄³⁻",
+      "PO₃³⁻",
+      "P⁺",
+      "PH₄⁺"
+    ],
+    "correct": 0,
+    "phase": 1,
+    "explanation": "Resposta: PO₄³⁻. A carga elétrica distingue cátions positivos e ânions negativos."
+  },
+  {
+    "id": "base-3-11-0",
+    "topic": "Precipitados",
+    "difficulty": 3,
+    "q": "Fe(OH)₃ tem aspecto tipicamente...",
+    "a": [
+      "castanho-avermelhado",
+      "azul intenso",
+      "branco puro",
+      "violeta"
+    ],
+    "correct": 0,
+    "phase": 3,
+    "explanation": "Resposta: castanho-avermelhado. A formação de sólidos depende da solubilidade e das condições da solução."
+  },
+  {
+    "id": "base-4-9-0",
+    "topic": "Vidrarias",
+    "difficulty": 4,
+    "q": "O cadinho é utilizado para...",
+    "a": [
+      "aquecimento intenso de sólidos",
+      "medir volume exato",
+      "armazenar ácidos voláteis",
+      "titular soluções"
+    ],
+    "correct": 0,
+    "phase": 2,
+    "explanation": "Resposta: aquecimento intenso de sólidos. Cada vidraria possui uma finalidade e um nível de precisão apropriado."
+  },
+  {
+    "id": "base-1-8-0",
+    "topic": "pH e indicadores",
+    "difficulty": 1,
+    "q": "A escala de pH está relacionada à atividade de...",
+    "a": [
+      "íons hidrônio",
+      "elétrons livres",
+      "íons cloreto apenas",
+      "moléculas de oxigênio"
+    ],
+    "correct": 0,
+    "phase": 1,
+    "explanation": "Resposta: íons hidrônio. O pH e os indicadores ajudam a caracterizar o comportamento ácido-base."
+  },
+  {
+    "id": "base-2-15-0",
+    "topic": "Cátions e ânions",
+    "difficulty": 2,
+    "q": "O ânion cromato é...",
+    "a": [
+      "CrO₄²⁻",
+      "Cr₂O₇²⁻",
+      "ClO₄⁻",
+      "CO₄²⁻"
+    ],
+    "correct": 0,
+    "phase": 1,
+    "explanation": "Resposta: CrO₄²⁻. A carga elétrica distingue cátions positivos e ânions negativos."
+  },
+  {
+    "id": "base-2-1-0",
+    "topic": "Cátions e ânions",
+    "difficulty": 2,
+    "q": "Qual espécie é um cátion?",
+    "a": [
+      "Ca²⁺",
+      "Cl⁻",
+      "SO₄²⁻",
+      "NO₃⁻"
+    ],
+    "correct": 0,
+    "phase": 1,
+    "explanation": "Resposta: Ca²⁺. A carga elétrica distingue cátions positivos e ânions negativos."
+  },
+  {
+    "id": "base-5-9-0",
+    "topic": "Gravimetria",
+    "difficulty": 5,
+    "q": "Umidade residual no sólido pesado tende a...",
+    "a": [
+      "superestimar a massa",
+      "reduzir sempre a massa",
+      "não alterar resultado",
+      "inverter a carga"
+    ],
+    "correct": 0,
+    "phase": 3,
+    "explanation": "Resposta: superestimar a massa. A gravimetria exige controle da formação, isolamento e pesagem do sólido."
+  },
+  {
+    "id": "base-1-11-0",
+    "topic": "pH e indicadores",
+    "difficulty": 1,
+    "q": "A 25 °C, uma solução com pH maior que 7 geralmente é...",
+    "a": [
+      "Básica",
+      "Ácida",
+      "Sempre saturada",
+      "Sempre tamponada"
+    ],
+    "correct": 0,
+    "phase": 1,
+    "explanation": "Resposta: Básica. O pH e os indicadores ajudam a caracterizar o comportamento ácido-base."
+  },
+  {
+    "id": "base-4-5-0",
+    "topic": "Vidrarias",
+    "difficulty": 4,
+    "q": "O béquer é adequado principalmente para...",
+    "a": [
+      "misturar e aquecer líquidos",
+      "medir volume exato",
+      "pesar com precisão",
+      "filtrar a vácuo sozinho"
+    ],
+    "correct": 0,
+    "phase": 2,
+    "explanation": "Resposta: misturar e aquecer líquidos. Cada vidraria possui uma finalidade e um nível de precisão apropriado."
+  },
+  {
+    "id": "base-5-14-0",
+    "topic": "Gravimetria",
+    "difficulty": 5,
+    "q": "A amostra deve ser resfriada em dessecador antes de pesar para...",
+    "a": [
+      "reduzir absorção de umidade e efeitos térmicos",
+      "adicionar água",
+      "oxidar todo sólido",
+      "aumentar volume"
+    ],
+    "correct": 0,
+    "phase": 3,
+    "explanation": "Resposta: reduzir absorção de umidade e efeitos térmicos. A gravimetria exige controle da formação, isolamento e pesagem do sólido."
+  },
+  {
+    "id": "base-5-7-0",
+    "topic": "Gravimetria",
+    "difficulty": 5,
+    "q": "A calcinação pode ser realizada em...",
+    "a": [
+      "mufla",
+      "bureta",
+      "pipeta",
+      "proveta"
+    ],
+    "correct": 0,
+    "phase": 3,
+    "explanation": "Resposta: mufla. A gravimetria exige controle da formação, isolamento e pesagem do sólido."
+  },
+  {
+    "id": "base-4-11-0",
+    "topic": "Vidrarias",
+    "difficulty": 4,
+    "q": "O menisco deve ser lido...",
+    "a": [
+      "na altura dos olhos",
+      "sempre de cima",
+      "sempre de baixo",
+      "com o frasco inclinado"
+    ],
+    "correct": 0,
+    "phase": 2,
+    "explanation": "Resposta: na altura dos olhos. Cada vidraria possui uma finalidade e um nível de precisão apropriado."
+  },
+  {
+    "id": "base-6-6-0",
+    "topic": "Análise qualitativa",
+    "difficulty": 6,
+    "q": "O CO₂ pode turvar água de cal pela formação de...",
+    "a": [
+      "CaCO₃",
+      "NaCl",
+      "AgI",
+      "BaCl₂"
+    ],
+    "correct": 0,
+    "phase": 2,
+    "explanation": "Resposta: CaCO₃. A identificação de espécies deve considerar observações e interferências."
+  },
+  {
+    "id": "base-6-5-0",
+    "topic": "Análise qualitativa",
+    "difficulty": 6,
+    "q": "A adição de ácido a carbonatos pode liberar...",
+    "a": [
+      "CO₂",
+      "O₂",
+      "N₂",
+      "Cl₂"
+    ],
+    "correct": 0,
+    "phase": 2,
+    "explanation": "Resposta: CO₂. A identificação de espécies deve considerar observações e interferências."
+  },
+  {
+    "id": "base-3-15-0",
+    "topic": "Precipitados",
+    "difficulty": 3,
+    "q": "O produto de solubilidade é simbolizado por...",
+    "a": [
+      "Kps",
+      "Ka apenas",
+      "Kw apenas",
+      "pKa"
+    ],
+    "correct": 0,
+    "phase": 3,
+    "explanation": "Resposta: Kps. A formação de sólidos depende da solubilidade e das condições da solução."
+  },
+  {
+    "id": "base-6-13-0",
+    "topic": "Análise qualitativa",
+    "difficulty": 6,
+    "q": "Um branco analítico serve para...",
+    "a": [
+      "verificar contribuição de reagentes e procedimento",
+      "substituir todas as amostras",
+      "aumentar precipitação",
+      "medir pH sem eletrodo"
+    ],
+    "correct": 0,
+    "phase": 2,
+    "explanation": "Resposta: verificar contribuição de reagentes e procedimento. A identificação de espécies deve considerar observações e interferências."
+  },
+  {
+    "id": "base-2-5-0",
+    "topic": "Cátions e ânions",
+    "difficulty": 2,
+    "q": "O ânion nitrato é...",
+    "a": [
+      "NO₃⁻",
+      "NO₂⁻",
+      "NH₄⁺",
+      "N³⁻"
+    ],
+    "correct": 0,
+    "phase": 1,
+    "explanation": "Resposta: NO₃⁻. A carga elétrica distingue cátions positivos e ânions negativos."
+  },
+  {
+    "id": "base-6-8-0",
+    "topic": "Análise qualitativa",
+    "difficulty": 6,
+    "q": "Um teste positivo isolado deve ser interpretado com...",
+    "a": [
+      "controles e possíveis interferências",
+      "certeza absoluta",
+      "descarte de outros testes",
+      "ausência de registro"
+    ],
+    "correct": 0,
+    "phase": 2,
+    "explanation": "Resposta: controles e possíveis interferências. A identificação de espécies deve considerar observações e interferências."
+  },
+  {
+    "id": "base-3-3-0",
+    "topic": "Precipitados",
+    "difficulty": 3,
+    "q": "Ba²⁺ + SO₄²⁻ forma...",
+    "a": [
+      "BaSO₄",
+      "BaCl₂",
+      "Ba(NO₃)₂",
+      "H₂SO₄"
+    ],
+    "correct": 0,
+    "phase": 3,
+    "explanation": "Resposta: BaSO₄. A formação de sólidos depende da solubilidade e das condições da solução."
+  },
+  {
+    "id": "base-6-7-0",
+    "topic": "Análise qualitativa",
+    "difficulty": 6,
+    "q": "A identificação de amônio com base forte e aquecimento pode liberar...",
+    "a": [
+      "NH₃",
+      "CO₂",
+      "O₂",
+      "H₂S sempre"
+    ],
+    "correct": 0,
+    "phase": 2,
+    "explanation": "Resposta: NH₃. A identificação de espécies deve considerar observações e interferências."
+  },
+  {
+    "id": "base-4-7-0",
+    "topic": "Vidrarias",
+    "difficulty": 4,
+    "q": "O vidro de relógio pode ser usado para...",
+    "a": [
+      "cobrir béquer e conter pequenas amostras",
+      "titular",
+      "medir pH eletronicamente",
+      "centrifugar"
+    ],
+    "correct": 0,
+    "phase": 2,
+    "explanation": "Resposta: cobrir béquer e conter pequenas amostras. Cada vidraria possui uma finalidade e um nível de precisão apropriado."
+  },
+  {
+    "id": "base-2-6-0",
+    "topic": "Cátions e ânions",
+    "difficulty": 2,
+    "q": "O cátion ferro(III) é...",
+    "a": [
+      "Fe³⁺",
+      "Fe²⁺",
+      "F³⁻",
+      "Fe⁻"
+    ],
+    "correct": 0,
+    "phase": 1,
+    "explanation": "Resposta: Fe³⁺. A carga elétrica distingue cátions positivos e ânions negativos."
+  },
+  {
+    "id": "base-4-15-0",
+    "topic": "Vidrarias",
+    "difficulty": 4,
+    "q": "O condensador é utilizado para...",
+    "a": [
+      "condensar vapores",
+      "pesar precipitados",
+      "medir absorbância",
+      "separar íons por carga"
+    ],
+    "correct": 0,
+    "phase": 2,
+    "explanation": "Resposta: condensar vapores. Cada vidraria possui uma finalidade e um nível de precisão apropriado."
+  },
+  {
+    "id": "base-1-12-0",
+    "topic": "pH e indicadores",
+    "difficulty": 1,
+    "q": "O indicador universal é usado para...",
+    "a": [
+      "estimar o pH por cores",
+      "pesar precipitados",
+      "filtrar sólidos",
+      "medir volume com precisão"
+    ],
+    "correct": 0,
+    "phase": 1,
+    "explanation": "Resposta: estimar o pH por cores. O pH e os indicadores ajudam a caracterizar o comportamento ácido-base."
+  },
+  {
+    "id": "base-1-5-0",
+    "topic": "pH e indicadores",
+    "difficulty": 1,
+    "q": "O papel tornassol azul em meio ácido torna-se...",
+    "a": [
+      "vermelho",
+      "verde",
+      "azul-escuro",
+      "preto"
+    ],
+    "correct": 0,
+    "phase": 1,
+    "explanation": "Resposta: vermelho. O pH e os indicadores ajudam a caracterizar o comportamento ácido-base."
+  },
+  {
+    "id": "base-3-6-0",
+    "topic": "Precipitados",
+    "difficulty": 3,
+    "q": "Pb²⁺ + 2 I⁻ produz...",
+    "a": [
+      "PbI₂",
+      "PbCl₄",
+      "PbO₂",
+      "KI"
+    ],
+    "correct": 0,
+    "phase": 3,
+    "explanation": "Resposta: PbI₂. A formação de sólidos depende da solubilidade e das condições da solução."
+  },
+  {
+    "id": "base-5-4-0",
+    "topic": "Gravimetria",
+    "difficulty": 5,
+    "q": "Massa constante significa...",
+    "a": [
+      "pesagens sucessivas concordantes dentro do critério",
+      "massa igual a zero",
+      "mesmo volume sempre",
+      "temperatura ambiente exata"
+    ],
+    "correct": 0,
+    "phase": 3,
+    "explanation": "Resposta: pesagens sucessivas concordantes dentro do critério. A gravimetria exige controle da formação, isolamento e pesagem do sólido."
+  },
+  {
+    "id": "base-1-15-0",
+    "topic": "pH e indicadores",
+    "difficulty": 1,
+    "q": "Uma base de Arrhenius aumenta em água a concentração de...",
+    "a": [
+      "OH⁻",
+      "H₃O⁺",
+      "Ag⁺",
+      "Cl₂"
+    ],
+    "correct": 0,
+    "phase": 1,
+    "explanation": "Resposta: OH⁻. O pH e os indicadores ajudam a caracterizar o comportamento ácido-base."
+  },
+  {
+    "id": "base-2-4-0",
+    "topic": "Cátions e ânions",
+    "difficulty": 2,
+    "q": "O ânion sulfato é...",
+    "a": [
+      "SO₄²⁻",
+      "SO₃²⁻",
+      "S²⁻",
+      "HSO₃⁻"
+    ],
+    "correct": 0,
+    "phase": 1,
+    "explanation": "Resposta: SO₄²⁻. A carga elétrica distingue cátions positivos e ânions negativos."
+  },
+  {
+    "id": "base-5-6-0",
+    "topic": "Gravimetria",
+    "difficulty": 5,
+    "q": "A digestão do precipitado pode favorecer...",
+    "a": [
+      "crescimento dos cristais",
+      "evaporação completa instantânea",
+      "mudança de elemento",
+      "aumento de carga"
+    ],
+    "correct": 0,
+    "phase": 3,
+    "explanation": "Resposta: crescimento dos cristais. A gravimetria exige controle da formação, isolamento e pesagem do sólido."
+  },
+  {
+    "id": "base-4-1-0",
+    "topic": "Vidrarias",
+    "difficulty": 4,
+    "q": "Qual vidraria é indicada para preparar volume exato de solução?",
+    "a": [
+      "balão volumétrico",
+      "béquer",
+      "erlenmeyer",
+      "vidro de relógio"
+    ],
+    "correct": 0,
+    "phase": 2,
+    "explanation": "Resposta: balão volumétrico. Cada vidraria possui uma finalidade e um nível de precisão apropriado."
+  },
+  {
+    "id": "base-5-12-0",
+    "topic": "Gravimetria",
+    "difficulty": 5,
+    "q": "O fator gravimétrico relaciona...",
+    "a": [
+      "massa do analito e massa da forma pesada",
+      "pH e pOH",
+      "pressão e volume",
+      "cor e absorbância"
+    ],
+    "correct": 0,
+    "phase": 3,
+    "explanation": "Resposta: massa do analito e massa da forma pesada. A gravimetria exige controle da formação, isolamento e pesagem do sólido."
+  },
+  {
+    "id": "base-5-11-0",
+    "topic": "Gravimetria",
+    "difficulty": 5,
+    "q": "A coprecipitação pode causar...",
+    "a": [
+      "contaminação do precipitado",
+      "perda de toda água",
+      "redução de volume exato",
+      "mudança de cátion"
+    ],
+    "correct": 0,
+    "phase": 3,
+    "explanation": "Resposta: contaminação do precipitado. A gravimetria exige controle da formação, isolamento e pesagem do sólido."
+  },
+  {
+    "id": "base-6-3-0",
+    "topic": "Análise qualitativa",
+    "difficulty": 6,
+    "q": "O teste de chama do sódio produz cor...",
+    "a": [
+      "amarela intensa",
+      "verde",
+      "violeta intensa",
+      "vermelha escura"
+    ],
+    "correct": 0,
+    "phase": 2,
+    "explanation": "Resposta: amarela intensa. A identificação de espécies deve considerar observações e interferências."
+  },
+  {
+    "id": "base-1-7-0",
+    "topic": "pH e indicadores",
+    "difficulty": 1,
+    "q": "O pH pode ser medido diretamente com...",
+    "a": [
+      "pHmetro",
+      "bureta",
+      "dessecador",
+      "funil de Büchner"
+    ],
+    "correct": 0,
+    "phase": 1,
+    "explanation": "Resposta: pHmetro. O pH e os indicadores ajudam a caracterizar o comportamento ácido-base."
+  },
+  {
+    "id": "base-4-13-0",
+    "topic": "Vidrarias",
+    "difficulty": 4,
+    "q": "O kitassato é empregado em...",
+    "a": [
+      "filtração sob pressão reduzida",
+      "pesagem analítica",
+      "titulação ácido-base",
+      "medição de temperatura"
+    ],
+    "correct": 0,
+    "phase": 2,
+    "explanation": "Resposta: filtração sob pressão reduzida. Cada vidraria possui uma finalidade e um nível de precisão apropriado."
+  },
+  {
+    "id": "base-3-12-0",
+    "topic": "Precipitados",
+    "difficulty": 3,
+    "q": "A formação de precipitado indica...",
+    "a": [
+      "formação de fase sólida pouco solúvel",
+      "sempre reação gasosa",
+      "sempre neutralização",
+      "ausência de reação"
+    ],
+    "correct": 0,
+    "phase": 3,
+    "explanation": "Resposta: formação de fase sólida pouco solúvel. A formação de sólidos depende da solubilidade e das condições da solução."
+  },
+  {
+    "id": "base-1-9-0",
+    "topic": "pH e indicadores",
+    "difficulty": 1,
+    "q": "Um tampão resiste principalmente a alterações de...",
+    "a": [
+      "pH",
+      "massa",
+      "cor",
+      "temperatura"
+    ],
+    "correct": 0,
+    "phase": 1,
+    "explanation": "Resposta: pH. O pH e os indicadores ajudam a caracterizar o comportamento ácido-base."
+  },
+  {
+    "id": "base-4-2-0",
+    "topic": "Vidrarias",
+    "difficulty": 4,
+    "q": "Qual vidraria dispensa volumes variáveis em titulação?",
+    "a": [
+      "bureta",
+      "dessecador",
+      "cadinho",
+      "funil simples"
+    ],
+    "correct": 0,
+    "phase": 2,
+    "explanation": "Resposta: bureta. Cada vidraria possui uma finalidade e um nível de precisão apropriado."
+  },
+  {
+    "id": "base-3-8-0",
+    "topic": "Precipitados",
+    "difficulty": 3,
+    "q": "Cu²⁺ + 2 OH⁻ forma...",
+    "a": [
+      "Cu(OH)₂",
+      "CuO₄",
+      "CuCl",
+      "Cu₂S"
+    ],
+    "correct": 0,
+    "phase": 3,
+    "explanation": "Resposta: Cu(OH)₂. A formação de sólidos depende da solubilidade e das condições da solução."
+  },
+  {
+    "id": "base-3-2-0",
+    "topic": "Precipitados",
+    "difficulty": 3,
+    "q": "A cor típica do AgCl sólido é...",
+    "a": [
+      "branca",
+      "preta",
+      "azul",
+      "verde"
+    ],
+    "correct": 0,
+    "phase": 3,
+    "explanation": "Resposta: branca. A formação de sólidos depende da solubilidade e das condições da solução."
+  },
+  {
+    "id": "base-4-10-0",
+    "topic": "Vidrarias",
+    "difficulty": 4,
+    "q": "A pipeta deve ser usada com...",
+    "a": [
+      "propipeta",
+      "sucção com a boca",
+      "pinça de cadinho",
+      "espátula"
+    ],
+    "correct": 0,
+    "phase": 2,
+    "explanation": "Resposta: propipeta. Cada vidraria possui uma finalidade e um nível de precisão apropriado."
+  },
+  {
+    "id": "base-2-2-0",
+    "topic": "Cátions e ânions",
+    "difficulty": 2,
+    "q": "Qual espécie é um ânion?",
+    "a": [
+      "CO₃²⁻",
+      "Fe³⁺",
+      "Cu²⁺",
+      "NH₄⁺"
+    ],
+    "correct": 0,
+    "phase": 1,
+    "explanation": "Resposta: CO₃²⁻. A carga elétrica distingue cátions positivos e ânions negativos."
+  },
+  {
+    "id": "base-1-4-0",
+    "topic": "pH e indicadores",
+    "difficulty": 1,
+    "q": "A fenolftaleína em meio fortemente básico costuma ficar...",
+    "a": [
+      "rosa",
+      "incolor",
+      "amarela",
+      "azul"
+    ],
+    "correct": 0,
+    "phase": 1,
+    "explanation": "Resposta: rosa. O pH e os indicadores ajudam a caracterizar o comportamento ácido-base."
+  },
+  {
+    "id": "base-5-2-0",
+    "topic": "Gravimetria",
+    "difficulty": 5,
+    "q": "A etapa de secagem do precipitado visa...",
+    "a": [
+      "remover umidade",
+      "aumentar solubilidade",
+      "adicionar reagente",
+      "formar gás"
+    ],
+    "correct": 0,
+    "phase": 3,
+    "explanation": "Resposta: remover umidade. A gravimetria exige controle da formação, isolamento e pesagem do sólido."
+  },
+  {
+    "id": "base-2-11-0",
+    "topic": "Cátions e ânions",
+    "difficulty": 2,
+    "q": "O íon magnésio é...",
+    "a": [
+      "Mg²⁺",
+      "Mg⁻",
+      "Mn²⁺",
+      "Mg³⁺"
+    ],
+    "correct": 0,
+    "phase": 1,
+    "explanation": "Resposta: Mg²⁺. A carga elétrica distingue cátions positivos e ânions negativos."
+  },
+  {
+    "id": "base-1-3-0",
+    "topic": "pH e indicadores",
+    "difficulty": 1,
+    "q": "Uma diminuição do pH indica, em condições comparáveis...",
+    "a": [
+      "Aumento da atividade dos íons hidrônio",
+      "Diminuição da acidez",
+      "Formação obrigatória de precipitado",
+      "Ausência de íons"
+    ],
+    "correct": 0,
+    "phase": 1,
+    "explanation": "Resposta: Aumento da atividade dos íons hidrônio. O pH e os indicadores ajudam a caracterizar o comportamento ácido-base."
+  },
+  {
+    "id": "base-6-15-0",
+    "topic": "Análise qualitativa",
+    "difficulty": 6,
+    "q": "A análise por via úmida ocorre principalmente em...",
+    "a": [
+      "solução",
+      "plasma estelar",
+      "vácuo absoluto",
+      "metal fundido"
+    ],
+    "correct": 0,
+    "phase": 2,
+    "explanation": "Resposta: solução. A identificação de espécies deve considerar observações e interferências."
+  },
+  {
+    "id": "base-6-1-0",
+    "topic": "Análise qualitativa",
+    "difficulty": 6,
+    "q": "A análise qualitativa identifica...",
+    "a": [
+      "quais espécies estão presentes",
+      "apenas a massa total",
+      "somente temperatura",
+      "apenas volume"
+    ],
+    "correct": 0,
+    "phase": 2,
+    "explanation": "Resposta: quais espécies estão presentes. A identificação de espécies deve considerar observações e interferências."
+  },
+  {
+    "id": "base-2-12-0",
+    "topic": "Cátions e ânions",
+    "difficulty": 2,
+    "q": "O íon carbonato é...",
+    "a": [
+      "CO₃²⁻",
+      "HCO₃⁻",
+      "CO₂⁻",
+      "C₂O₄²⁻"
+    ],
+    "correct": 0,
+    "phase": 1,
+    "explanation": "Resposta: CO₃²⁻. A carga elétrica distingue cátions positivos e ânions negativos."
+  },
+  {
+    "id": "base-2-14-0",
+    "topic": "Cátions e ânions",
+    "difficulty": 2,
+    "q": "O cátion prata é normalmente...",
+    "a": [
+      "Ag⁺",
+      "Ag²⁻",
+      "Au⁺",
+      "Al³⁺"
+    ],
+    "correct": 0,
+    "phase": 1,
+    "explanation": "Resposta: Ag⁺. A carga elétrica distingue cátions positivos e ânions negativos."
+  },
+  {
+    "id": "base-6-2-0",
+    "topic": "Análise qualitativa",
+    "difficulty": 6,
+    "q": "Um teste confirmatório serve para...",
+    "a": [
+      "reforçar a identificação de um íon",
+      "medir densidade",
+      "determinar pressão",
+      "pesar recipiente"
+    ],
+    "correct": 0,
+    "phase": 2,
+    "explanation": "Resposta: reforçar a identificação de um íon. A identificação de espécies deve considerar observações e interferências."
+  },
+  {
+    "id": "base-4-12-0",
+    "topic": "Vidrarias",
+    "difficulty": 4,
+    "q": "O dessecador é usado para...",
+    "a": [
+      "resfriar e guardar amostras protegidas da umidade",
+      "ferver soluções",
+      "medir pH",
+      "pipetar"
+    ],
+    "correct": 0,
+    "phase": 2,
+    "explanation": "Resposta: resfriar e guardar amostras protegidas da umidade. Cada vidraria possui uma finalidade e um nível de precisão apropriado."
+  },
+  {
+    "id": "base-2-10-0",
+    "topic": "Cátions e ânions",
+    "difficulty": 2,
+    "q": "O ânion cloreto é...",
+    "a": [
+      "Cl⁻",
+      "Cl⁺",
+      "Cl₂⁻",
+      "Ca²⁺"
+    ],
+    "correct": 0,
+    "phase": 1,
+    "explanation": "Resposta: Cl⁻. A carga elétrica distingue cátions positivos e ânions negativos."
+  },
+  {
+    "id": "base-5-8-0",
+    "topic": "Gravimetria",
+    "difficulty": 5,
+    "q": "O papel de filtro quantitativo apresenta...",
+    "a": [
+      "baixo teor de cinzas",
+      "alto teor de metais",
+      "indicador de pH",
+      "graduação volumétrica"
+    ],
+    "correct": 0,
+    "phase": 3,
+    "explanation": "Resposta: baixo teor de cinzas. A gravimetria exige controle da formação, isolamento e pesagem do sólido."
+  },
+  {
+    "id": "base-6-12-0",
+    "topic": "Análise qualitativa",
+    "difficulty": 6,
+    "q": "O sobrenadante é...",
+    "a": [
+      "líquido acima do sólido sedimentado",
+      "precipitado seco",
+      "gás liberado",
+      "cadinho aquecido"
+    ],
+    "correct": 0,
+    "phase": 2,
+    "explanation": "Resposta: líquido acima do sólido sedimentado. A identificação de espécies deve considerar observações e interferências."
+  },
+  {
+    "id": "base-1-14-0",
+    "topic": "pH e indicadores",
+    "difficulty": 1,
+    "q": "O ácido clorídrico em água libera principalmente...",
+    "a": [
+      "H₃O⁺ e Cl⁻",
+      "OH⁻ e Na⁺",
+      "Ag⁺ e NO₃⁻",
+      "Ba²⁺ e SO₄²⁻"
+    ],
+    "correct": 0,
+    "phase": 1,
+    "explanation": "Resposta: H₃O⁺ e Cl⁻. O pH e os indicadores ajudam a caracterizar o comportamento ácido-base."
+  },
+  {
+    "id": "base-3-10-0",
+    "topic": "Precipitados",
+    "difficulty": 3,
+    "q": "Fe³⁺ + 3 OH⁻ forma precipitado de...",
+    "a": [
+      "Fe(OH)₃",
+      "FeCl₃",
+      "FeSO₄",
+      "FeO₄"
+    ],
+    "correct": 0,
+    "phase": 3,
+    "explanation": "Resposta: Fe(OH)₃. A formação de sólidos depende da solubilidade e das condições da solução."
+  },
+  {
+    "id": "base-2-9-0",
+    "topic": "Cátions e ânions",
+    "difficulty": 2,
+    "q": "Qual é a carga do íon alumínio comum?",
+    "a": [
+      "+3",
+      "+1",
+      "-3",
+      "+2"
+    ],
+    "correct": 0,
+    "phase": 1,
+    "explanation": "Resposta: +3. A carga elétrica distingue cátions positivos e ânions negativos."
+  },
+  {
+    "id": "base-6-11-0",
+    "topic": "Análise qualitativa",
+    "difficulty": 6,
+    "q": "A cor azul de uma solução pode sugerir, mas não comprovar sozinha...",
+    "a": [
+      "presença de Cu²⁺",
+      "presença de Na⁺",
+      "ausência de água",
+      "presença de Cl⁻"
+    ],
+    "correct": 0,
+    "phase": 2,
+    "explanation": "Resposta: presença de Cu²⁺. A identificação de espécies deve considerar observações e interferências."
+  },
+  {
+    "id": "base-3-5-0",
+    "topic": "Precipitados",
+    "difficulty": 3,
+    "q": "Ag⁺ + I⁻ produz AgI de cor...",
+    "a": [
+      "amarela",
+      "azul",
+      "preta",
+      "verde"
+    ],
+    "correct": 0,
+    "phase": 3,
+    "explanation": "Resposta: amarela. A formação de sólidos depende da solubilidade e das condições da solução."
+  },
+  {
+    "id": "base-5-5-0",
+    "topic": "Gravimetria",
+    "difficulty": 5,
+    "q": "Um precipitado muito fino pode dificultar...",
+    "a": [
+      "filtração",
+      "dissolução do reagente inicial",
+      "leitura de pH",
+      "calibração de bureta"
+    ],
+    "correct": 0,
+    "phase": 3,
+    "explanation": "Resposta: filtração. A gravimetria exige controle da formação, isolamento e pesagem do sólido."
+  },
+  {
+    "id": "base-1-10-0",
+    "topic": "pH e indicadores",
+    "difficulty": 1,
+    "q": "Uma solução com [H₃O⁺] = 10⁻³ mol/L tem pH aproximado...",
+    "a": [
+      "3",
+      "11",
+      "7",
+      "1"
+    ],
+    "correct": 0,
+    "phase": 1,
+    "explanation": "Resposta: 3. O pH e os indicadores ajudam a caracterizar o comportamento ácido-base."
+  },
+  {
+    "id": "base-5-1-0",
+    "topic": "Gravimetria",
+    "difficulty": 5,
+    "q": "Na gravimetria, a grandeza medida central é...",
+    "a": [
+      "massa",
+      "cor",
+      "potencial elétrico",
+      "tempo de retenção"
+    ],
+    "correct": 0,
+    "phase": 3,
+    "explanation": "Resposta: massa. A gravimetria exige controle da formação, isolamento e pesagem do sólido."
+  },
+  {
+    "id": "base-5-3-0",
+    "topic": "Gravimetria",
+    "difficulty": 5,
+    "q": "O precipitado deve ser lavado para...",
+    "a": [
+      "remover impurezas solúveis",
+      "dissolvê-lo totalmente",
+      "aumentar volume",
+      "neutralizar toda solução"
+    ],
+    "correct": 0,
+    "phase": 3,
+    "explanation": "Resposta: remover impurezas solúveis. A gravimetria exige controle da formação, isolamento e pesagem do sólido."
+  },
+  {
+    "id": "base-4-14-0",
+    "topic": "Vidrarias",
+    "difficulty": 4,
+    "q": "O bastão de vidro auxilia na...",
+    "a": [
+      "agitação e transferência de líquidos",
+      "medição exata de volume",
+      "pesagem",
+      "medição de pH"
+    ],
+    "correct": 0,
+    "phase": 2,
+    "explanation": "Resposta: agitação e transferência de líquidos. Cada vidraria possui uma finalidade e um nível de precisão apropriado."
+  },
+  {
+    "id": "base-4-3-0",
+    "topic": "Vidrarias",
+    "difficulty": 4,
+    "q": "Qual vidraria transfere um volume fixo com alta precisão?",
+    "a": [
+      "pipeta volumétrica",
+      "béquer",
+      "proveta comum",
+      "tubo de ensaio"
+    ],
+    "correct": 0,
+    "phase": 2,
+    "explanation": "Resposta: pipeta volumétrica. Cada vidraria possui uma finalidade e um nível de precisão apropriado."
+  },
+  {
+    "id": "base-5-10-0",
+    "topic": "Gravimetria",
+    "difficulty": 5,
+    "q": "Uma balança analítica mede...",
+    "a": [
+      "massa com alta resolução",
+      "pH",
+      "absorbância",
+      "densidade diretamente"
+    ],
+    "correct": 0,
+    "phase": 3,
+    "explanation": "Resposta: massa com alta resolução. A gravimetria exige controle da formação, isolamento e pesagem do sólido."
+  },
+  {
+    "id": "base-3-13-0",
+    "topic": "Precipitados",
+    "difficulty": 3,
+    "q": "Na⁺ e NO₃⁻ em água normalmente...",
+    "a": [
+      "permanecem dissolvidos",
+      "formam NaNO₃ insolúvel",
+      "liberam oxigênio",
+      "formam prata"
+    ],
+    "correct": 0,
+    "phase": 3,
+    "explanation": "Resposta: permanecem dissolvidos. A formação de sólidos depende da solubilidade e das condições da solução."
+  },
+  {
+    "id": "base-4-8-0",
+    "topic": "Vidrarias",
+    "difficulty": 4,
+    "q": "O funil de Büchner é utilizado em...",
+    "a": [
+      "filtração a vácuo",
+      "destilação fracionada",
+      "titulação",
+      "calcinação"
+    ],
+    "correct": 0,
+    "phase": 2,
+    "explanation": "Resposta: filtração a vácuo. Cada vidraria possui uma finalidade e um nível de precisão apropriado."
+  },
+  {
+    "id": "base-3-1-0",
+    "topic": "Precipitados",
+    "difficulty": 3,
+    "q": "Ag⁺ + Cl⁻ forma precipitado de...",
+    "a": [
+      "AgCl",
+      "AgNO₃",
+      "NaCl",
+      "HCl"
+    ],
+    "correct": 0,
+    "phase": 3,
+    "explanation": "Resposta: AgCl. A formação de sólidos depende da solubilidade e das condições da solução."
+  },
+  {
+    "id": "base-3-7-0",
+    "topic": "Precipitados",
+    "difficulty": 3,
+    "q": "O PbI₂ precipitado é tipicamente...",
+    "a": [
+      "amarelo",
+      "branco",
+      "azul",
+      "preto"
+    ],
+    "correct": 0,
+    "phase": 3,
+    "explanation": "Resposta: amarelo. A formação de sólidos depende da solubilidade e das condições da solução."
+  },
+  {
+    "id": "base-2-7-0",
+    "topic": "Cátions e ânions",
+    "difficulty": 2,
+    "q": "O cátion cobre(II) é...",
+    "a": [
+      "Cu²⁺",
+      "Cu⁺",
+      "Co²⁺",
+      "Cl⁻"
+    ],
+    "correct": 0,
+    "phase": 1,
+    "explanation": "Resposta: Cu²⁺. A carga elétrica distingue cátions positivos e ânions negativos."
+  },
+  {
+    "id": "new-001",
+    "topic": "Segurança e boas práticas",
+    "q": "Qual equipamento protege os olhos contra respingos?",
+    "a": [
+      "Óculos de segurança",
+      "Sandálias abertas",
+      "Relógio de pulso",
+      "Fone de ouvido"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Óculos de segurança. A segurança depende de procedimentos, prevenção e proteção adequada.",
+    "phase": 4
+  },
+  {
+    "id": "new-002",
+    "topic": "Segurança e boas práticas",
+    "q": "Por que não se deve pipetar com a boca?",
+    "a": [
+      "Há risco de ingestão e exposição química",
+      "A pipeta perde a graduação",
+      "O líquido sempre evapora",
+      "A solução vira precipitado"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Há risco de ingestão e exposição química. A segurança depende de procedimentos, prevenção e proteção adequada.",
+    "phase": 4
+  },
+  {
+    "id": "new-003",
+    "topic": "Segurança e boas práticas",
+    "q": "Qual conduta é correta ao perceber um frasco sem rótulo?",
+    "a": [
+      "Não utilizar até identificar conforme o procedimento",
+      "Cheirar diretamente",
+      "Misturar com ácido",
+      "Descartar na pia imediatamente"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Não utilizar até identificar conforme o procedimento. A segurança depende de procedimentos, prevenção e proteção adequada.",
+    "phase": 4
+  },
+  {
+    "id": "new-004",
+    "topic": "Segurança e boas práticas",
+    "q": "Em caso de derramamento químico, a primeira atitude adequada é...",
+    "a": [
+      "Isolar e comunicar conforme o plano de emergência",
+      "Tocar sem luvas",
+      "Misturar todos os reagentes",
+      "Ignorar o incidente"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Isolar e comunicar conforme o plano de emergência. A segurança depende de procedimentos, prevenção e proteção adequada.",
+    "phase": 4
+  },
+  {
+    "id": "new-005",
+    "topic": "Segurança e boas práticas",
+    "q": "Qual documento descreve perigos e medidas de proteção de um produto químico?",
+    "a": [
+      "Ficha de Dados de Segurança (FDS)",
+      "Boletim escolar",
+      "Catálogo de vidrarias",
+      "Mapa astronômico"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Ficha de Dados de Segurança (FDS). A segurança depende de procedimentos, prevenção e proteção adequada.",
+    "phase": 4
+  },
+  {
+    "id": "new-006",
+    "topic": "Segurança e boas práticas",
+    "q": "Por que usar jaleco fechado em laboratório?",
+    "a": [
+      "Reduzir exposição da pele e da roupa a respingos",
+      "Garantir esterilidade absoluta",
+      "Substituir capela",
+      "Medir temperatura"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Reduzir exposição da pele e da roupa a respingos. A segurança depende de procedimentos, prevenção e proteção adequada.",
+    "phase": 4
+  },
+  {
+    "id": "new-007",
+    "topic": "Segurança e boas práticas",
+    "q": "O que fazer com cabelos longos antes de iniciar uma prática?",
+    "a": [
+      "Prendê-los adequadamente",
+      "Aproximá-los da chama",
+      "Molhá-los com solvente",
+      "Cobri-los com papel"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Prendê-los adequadamente. A segurança depende de procedimentos, prevenção e proteção adequada.",
+    "phase": 4
+  },
+  {
+    "id": "new-008",
+    "topic": "Segurança e boas práticas",
+    "q": "Qual atitude evita contaminação cruzada de reagentes?",
+    "a": [
+      "Usar espátulas limpas e específicas",
+      "Devolver sobras ao frasco original",
+      "Compartilhar conta-gotas sujo",
+      "Deixar frascos abertos"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Usar espátulas limpas e específicas. A segurança depende de procedimentos, prevenção e proteção adequada.",
+    "phase": 4
+  },
+  {
+    "id": "new-009",
+    "topic": "Segurança e boas práticas",
+    "q": "O descarte de resíduos de metais pesados deve ocorrer...",
+    "a": [
+      "Em recipiente identificado segundo protocolo institucional",
+      "Sempre no ralo",
+      "No lixo comum sem avaliação",
+      "Por evaporação na bancada"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Em recipiente identificado segundo protocolo institucional. A segurança depende de procedimentos, prevenção e proteção adequada.",
+    "phase": 4
+  },
+  {
+    "id": "new-010",
+    "topic": "Segurança e boas práticas",
+    "q": "Por que a capela de exaustão é importante?",
+    "a": [
+      "Controla a exposição a vapores e gases perigosos",
+      "Substitui todos os EPIs",
+      "Determina a massa",
+      "Elimina necessidade de treinamento"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Controla a exposição a vapores e gases perigosos. A segurança depende de procedimentos, prevenção e proteção adequada.",
+    "phase": 4
+  },
+  {
+    "id": "new-011",
+    "topic": "Segurança e boas práticas",
+    "q": "Uma luva compatível deve ser escolhida considerando...",
+    "a": [
+      "A substância e o tempo de contato",
+      "Somente a cor",
+      "Somente o tamanho do béquer",
+      "A marca da balança"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: A substância e o tempo de contato. A segurança depende de procedimentos, prevenção e proteção adequada.",
+    "phase": 4
+  },
+  {
+    "id": "new-012",
+    "topic": "Segurança e boas práticas",
+    "q": "O que significa incompatibilidade química no armazenamento?",
+    "a": [
+      "Substâncias podem reagir perigosamente se misturadas",
+      "Substâncias têm a mesma cor",
+      "Os frascos são de vidro",
+      "Os reagentes têm a mesma massa"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Substâncias podem reagir perigosamente se misturadas. A segurança depende de procedimentos, prevenção e proteção adequada.",
+    "phase": 4
+  },
+  {
+    "id": "new-013",
+    "topic": "Segurança e boas práticas",
+    "q": "Ao diluir um ácido concentrado, a prática geral mais segura é...",
+    "a": [
+      "Adicionar lentamente ácido à água sob controle",
+      "Adicionar água rapidamente ao ácido",
+      "Aquecer sem proteção",
+      "Fechar o frasco hermeticamente durante mistura"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Adicionar lentamente ácido à água sob controle. A segurança depende de procedimentos, prevenção e proteção adequada.",
+    "phase": 4
+  },
+  {
+    "id": "new-014",
+    "topic": "Segurança e boas práticas",
+    "q": "Por que não se deve cheirar diretamente um reagente?",
+    "a": [
+      "Pode haver inalação de vapores nocivos",
+      "A cor pode desaparecer",
+      "O pH se altera sempre",
+      "A vidraria quebra imediatamente"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Pode haver inalação de vapores nocivos. A segurança depende de procedimentos, prevenção e proteção adequada.",
+    "phase": 4
+  },
+  {
+    "id": "new-015",
+    "topic": "Segurança e boas práticas",
+    "q": "Antes de aquecer um tubo de ensaio, deve-se...",
+    "a": [
+      "Apontar sua abertura para longe das pessoas",
+      "Vedá-lo completamente",
+      "Apontá-lo para o colega",
+      "Segurá-lo pela borda quente"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Apontar sua abertura para longe das pessoas. A segurança depende de procedimentos, prevenção e proteção adequada.",
+    "phase": 4
+  },
+  {
+    "id": "new-016",
+    "topic": "Segurança e boas práticas",
+    "q": "Qual é a função do lava-olhos de emergência?",
+    "a": [
+      "Irrigar imediatamente os olhos em exposições",
+      "Medir pH",
+      "Limpar balanças",
+      "Secar vidrarias"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Irrigar imediatamente os olhos em exposições. A segurança depende de procedimentos, prevenção e proteção adequada.",
+    "phase": 4
+  },
+  {
+    "id": "new-017",
+    "topic": "Segurança e boas práticas",
+    "q": "Ao trabalhar com chama, é importante...",
+    "a": [
+      "Manter inflamáveis afastados",
+      "Usar solventes abertos ao lado",
+      "Deixar mangas soltas",
+      "Cobrir a chama com papel"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Manter inflamáveis afastados. A segurança depende de procedimentos, prevenção e proteção adequada.",
+    "phase": 4
+  },
+  {
+    "id": "new-018",
+    "topic": "Segurança e boas práticas",
+    "q": "Qual é uma regra de identificação de soluções preparadas?",
+    "a": [
+      "Rotular composição, concentração, data e responsável quando aplicável",
+      "Deixar sem identificação",
+      "Rotular apenas pela cor",
+      "Trocar rótulos entre frascos"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Rotular composição, concentração, data e responsável quando aplicável. A segurança depende de procedimentos, prevenção e proteção adequada.",
+    "phase": 4
+  },
+  {
+    "id": "new-019",
+    "topic": "Segurança e boas práticas",
+    "q": "Por que frascos de reagentes devem permanecer fechados?",
+    "a": [
+      "Evitar contaminação, perdas e exposição",
+      "Aumentar a pressão sempre",
+      "Mudar o número atômico",
+      "Aumentar a massa molar"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Evitar contaminação, perdas e exposição. A segurança depende de procedimentos, prevenção e proteção adequada.",
+    "phase": 4
+  },
+  {
+    "id": "new-020",
+    "topic": "Segurança e boas práticas",
+    "q": "Qual cuidado é essencial ao manusear vidro quebrado?",
+    "a": [
+      "Usar método e recipiente adequados para perfurocortantes",
+      "Recolher com mãos nuas",
+      "Misturar aos papéis",
+      "Lavar no ralo"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Usar método e recipiente adequados para perfurocortantes. A segurança depende de procedimentos, prevenção e proteção adequada.",
+    "phase": 4
+  },
+  {
+    "id": "new-021",
+    "topic": "Segurança e boas práticas",
+    "q": "Qual procedimento é adequado ao identificar odor anormal de gás?",
+    "a": [
+      "Interromper a atividade e seguir o plano de emergência",
+      "Acender um fósforo",
+      "Buscar vazamento com chama",
+      "Continuar normalmente"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Interromper a atividade e seguir o plano de emergência. A segurança depende de procedimentos, prevenção e proteção adequada.",
+    "phase": 4
+  },
+  {
+    "id": "new-022",
+    "topic": "Segurança e boas práticas",
+    "q": "Em uma bancada de análise, alimentos e bebidas devem...",
+    "a": [
+      "Permanecer fora do laboratório",
+      "Ser armazenados com reagentes",
+      "Ficar próximos da balança",
+      "Ser usados para testar pipetas"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Permanecer fora do laboratório. A segurança depende de procedimentos, prevenção e proteção adequada.",
+    "phase": 4
+  },
+  {
+    "id": "new-023",
+    "topic": "Segurança e boas práticas",
+    "q": "A sinalização de risco serve para...",
+    "a": [
+      "Comunicar perigos e precauções",
+      "Decorar o laboratório",
+      "Medir concentração",
+      "Substituir procedimentos"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Comunicar perigos e precauções. A segurança depende de procedimentos, prevenção e proteção adequada.",
+    "phase": 4
+  },
+  {
+    "id": "new-024",
+    "topic": "Segurança e boas práticas",
+    "q": "Ao retirar um frasco da prateleira, recomenda-se...",
+    "a": [
+      "Verificar rótulo, integridade e compatibilidade",
+      "Segurar somente pela tampa",
+      "Agitar sem olhar",
+      "Aproximar do rosto"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Verificar rótulo, integridade e compatibilidade. A segurança depende de procedimentos, prevenção e proteção adequada.",
+    "phase": 4
+  },
+  {
+    "id": "new-025",
+    "topic": "Segurança e boas práticas",
+    "q": "Qual cuidado reduz acidentes com cabos elétricos de equipamentos?",
+    "a": [
+      "Inspecionar danos e manter cabos organizados",
+      "Usar cabos desencapados",
+      "Molhar tomadas",
+      "Sobrecarregar extensões"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Inspecionar danos e manter cabos organizados. A segurança depende de procedimentos, prevenção e proteção adequada.",
+    "phase": 4
+  },
+  {
+    "id": "new-026",
+    "topic": "Segurança e boas práticas",
+    "q": "O que é EPI?",
+    "a": [
+      "Equipamento de proteção individual",
+      "Escala de precipitação iônica",
+      "Estação de pesagem interna",
+      "Elemento padrão indicador"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Equipamento de proteção individual. A segurança depende de procedimentos, prevenção e proteção adequada.",
+    "phase": 4
+  },
+  {
+    "id": "new-027",
+    "topic": "Segurança e boas práticas",
+    "q": "O que é EPC?",
+    "a": [
+      "Equipamento de proteção coletiva",
+      "Ensaio de pureza concentrada",
+      "Equilíbrio de prótons calculado",
+      "Escala periódica de cátions"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Equipamento de proteção coletiva. A segurança depende de procedimentos, prevenção e proteção adequada.",
+    "phase": 4
+  },
+  {
+    "id": "new-028",
+    "topic": "Segurança e boas práticas",
+    "q": "Qual medida é adequada antes de iniciar uma análise nova?",
+    "a": [
+      "Ler o procedimento e avaliar os riscos",
+      "Improvisar sem instrução",
+      "Desconsiderar incompatibilidades",
+      "Pular identificação da amostra"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Ler o procedimento e avaliar os riscos. A segurança depende de procedimentos, prevenção e proteção adequada.",
+    "phase": 4
+  },
+  {
+    "id": "new-029",
+    "topic": "Segurança e boas práticas",
+    "q": "Em caso de contato químico com a pele, deve-se...",
+    "a": [
+      "Seguir imediatamente a FDS e o protocolo de emergência",
+      "Aplicar outro reagente por conta própria",
+      "Esperar sem avisar",
+      "Esfregar com solvente desconhecido"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Seguir imediatamente a FDS e o protocolo de emergência. A segurança depende de procedimentos, prevenção e proteção adequada.",
+    "phase": 4
+  },
+  {
+    "id": "new-030",
+    "topic": "Segurança e boas práticas",
+    "q": "Por que nunca aquecer um sistema completamente fechado sem projeto específico?",
+    "a": [
+      "A pressão pode aumentar perigosamente",
+      "A massa deixa de existir",
+      "A gravidade diminui",
+      "A cor sempre fica azul"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: A pressão pode aumentar perigosamente. A segurança depende de procedimentos, prevenção e proteção adequada.",
+    "phase": 4
+  },
+  {
+    "id": "new-031",
+    "topic": "Preparação e procedimentos",
+    "q": "Qual é a função da água deionizada em muitas análises?",
+    "a": [
+      "Reduzir a introdução de íons contaminantes",
+      "Aumentar a dureza sempre",
+      "Substituir qualquer padrão certificado",
+      "Garantir ausência de toda matéria orgânica"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Reduzir a introdução de íons contaminantes. Boas práticas de preparo reduzem contaminação e favorecem a rastreabilidade.",
+    "phase": 5
+  },
+  {
+    "id": "new-032",
+    "topic": "Preparação e procedimentos",
+    "q": "Por que enxaguar a bureta com a solução titulante antes do uso?",
+    "a": [
+      "Evitar diluição por água residual",
+      "Aumentar o pH obrigatoriamente",
+      "Remover sua graduação",
+      "Produzir precipitado"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Evitar diluição por água residual. Boas práticas de preparo reduzem contaminação e favorecem a rastreabilidade.",
+    "phase": 5
+  },
+  {
+    "id": "new-033",
+    "topic": "Preparação e procedimentos",
+    "q": "Ao completar um balão volumétrico, a referência correta é...",
+    "a": [
+      "A marca de aferição observada ao nível dos olhos",
+      "A borda superior do gargalo",
+      "A tampa",
+      "O fundo externo"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: A marca de aferição observada ao nível dos olhos. Boas práticas de preparo reduzem contaminação e favorecem a rastreabilidade.",
+    "phase": 5
+  },
+  {
+    "id": "new-034",
+    "topic": "Preparação e procedimentos",
+    "q": "Qual é a finalidade de homogeneizar uma solução preparada?",
+    "a": [
+      "Distribuir uniformemente os componentes",
+      "Formar cristais sempre",
+      "Mudar a identidade do soluto",
+      "Eliminar todo solvente"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Distribuir uniformemente os componentes. Boas práticas de preparo reduzem contaminação e favorecem a rastreabilidade.",
+    "phase": 5
+  },
+  {
+    "id": "new-035",
+    "topic": "Preparação e procedimentos",
+    "q": "Uma amostra representativa deve...",
+    "a": [
+      "Refletir adequadamente o material de origem",
+      "Ser sempre a menor partícula",
+      "Ter cor uniforme obrigatoriamente",
+      "Ser retirada apenas da superfície"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Refletir adequadamente o material de origem. Boas práticas de preparo reduzem contaminação e favorecem a rastreabilidade.",
+    "phase": 5
+  },
+  {
+    "id": "new-036",
+    "topic": "Preparação e procedimentos",
+    "q": "Por que identificar cada alíquota durante o trabalho?",
+    "a": [
+      "Evitar trocas e preservar rastreabilidade",
+      "Reduzir número de íons",
+      "Alterar solubilidade",
+      "Substituir registro de massa"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Evitar trocas e preservar rastreabilidade. Boas práticas de preparo reduzem contaminação e favorecem a rastreabilidade.",
+    "phase": 5
+  },
+  {
+    "id": "new-037",
+    "topic": "Preparação e procedimentos",
+    "q": "O que é uma alíquota?",
+    "a": [
+      "Porção definida retirada de uma amostra ou solução",
+      "Precipitado calcinado",
+      "Gás de exaustão",
+      "Indicador universal"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Porção definida retirada de uma amostra ou solução. Boas práticas de preparo reduzem contaminação e favorecem a rastreabilidade.",
+    "phase": 5
+  },
+  {
+    "id": "new-038",
+    "topic": "Preparação e procedimentos",
+    "q": "A filtração separa principalmente...",
+    "a": [
+      "Sólidos de um fluido por meio poroso",
+      "Dois gases por cor",
+      "Prótons de nêutrons",
+      "Átomos pelo número atômico"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Sólidos de um fluido por meio poroso. Boas práticas de preparo reduzem contaminação e favorecem a rastreabilidade.",
+    "phase": 5
+  },
+  {
+    "id": "new-039",
+    "topic": "Preparação e procedimentos",
+    "q": "Na decantação, a separação aproveita...",
+    "a": [
+      "Diferenças de densidade e sedimentação",
+      "Somente fluorescência",
+      "Somente carga nuclear",
+      "O ponto de fusão do vidro"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Diferenças de densidade e sedimentação. Boas práticas de preparo reduzem contaminação e favorecem a rastreabilidade.",
+    "phase": 5
+  },
+  {
+    "id": "new-040",
+    "topic": "Preparação e procedimentos",
+    "q": "O que é sobrenadante?",
+    "a": [
+      "Líquido que permanece acima do material sedimentado",
+      "Sólido preso ao filtro",
+      "Vapor condensado",
+      "A parte externa do frasco"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Líquido que permanece acima do material sedimentado. Boas práticas de preparo reduzem contaminação e favorecem a rastreabilidade.",
+    "phase": 5
+  },
+  {
+    "id": "new-041",
+    "topic": "Preparação e procedimentos",
+    "q": "Qual é a finalidade de uma solução padrão?",
+    "a": [
+      "Fornecer concentração conhecida para medições ou comparações",
+      "Produzir calor sempre",
+      "Servir apenas para limpeza",
+      "Eliminar calibração"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Fornecer concentração conhecida para medições ou comparações. Boas práticas de preparo reduzem contaminação e favorecem a rastreabilidade.",
+    "phase": 5
+  },
+  {
+    "id": "new-042",
+    "topic": "Preparação e procedimentos",
+    "q": "Por que registrar o lote de um reagente?",
+    "a": [
+      "Permitir rastreabilidade e investigação de resultados",
+      "Determinar sua cor visual",
+      "Aumentar seu volume",
+      "Evitar rotulagem"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Permitir rastreabilidade e investigação de resultados. Boas práticas de preparo reduzem contaminação e favorecem a rastreabilidade.",
+    "phase": 5
+  },
+  {
+    "id": "new-043",
+    "topic": "Preparação e procedimentos",
+    "q": "O branco de reagentes ajuda a identificar...",
+    "a": [
+      "Contribuições dos próprios reagentes ao sinal analítico",
+      "A cor do jaleco",
+      "O número de elétrons do vidro",
+      "A altura do suporte"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Contribuições dos próprios reagentes ao sinal analítico. Boas práticas de preparo reduzem contaminação e favorecem a rastreabilidade.",
+    "phase": 5
+  },
+  {
+    "id": "new-044",
+    "topic": "Preparação e procedimentos",
+    "q": "Uma replicata analítica é...",
+    "a": [
+      "Uma repetição independente ou definida da determinação",
+      "Um novo elemento químico",
+      "Uma etiqueta de risco",
+      "Uma fase gasosa"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Uma repetição independente ou definida da determinação. Boas práticas de preparo reduzem contaminação e favorecem a rastreabilidade.",
+    "phase": 5
+  },
+  {
+    "id": "new-045",
+    "topic": "Preparação e procedimentos",
+    "q": "A padronização de solução busca...",
+    "a": [
+      "Determinar sua concentração efetiva",
+      "Aumentar sua cor",
+      "Remover todo soluto",
+      "Transformá-la em sólido"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Determinar sua concentração efetiva. Boas práticas de preparo reduzem contaminação e favorecem a rastreabilidade.",
+    "phase": 5
+  },
+  {
+    "id": "new-046",
+    "topic": "Preparação e procedimentos",
+    "q": "O que é contaminação da amostra?",
+    "a": [
+      "Introdução indesejada de substâncias externas",
+      "Apenas mudança de temperatura",
+      "Leitura correta do menisco",
+      "Uso de luvas limpas"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Introdução indesejada de substâncias externas. Boas práticas de preparo reduzem contaminação e favorecem a rastreabilidade.",
+    "phase": 5
+  },
+  {
+    "id": "new-047",
+    "topic": "Preparação e procedimentos",
+    "q": "A agitação durante dissolução normalmente favorece...",
+    "a": [
+      "Contato entre soluto e solvente",
+      "Criação de novos elementos",
+      "Aumento obrigatório de pH",
+      "Precipitação de todos os sais"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Contato entre soluto e solvente. Boas práticas de preparo reduzem contaminação e favorecem a rastreabilidade.",
+    "phase": 5
+  },
+  {
+    "id": "new-048",
+    "topic": "Preparação e procedimentos",
+    "q": "Por que não se deve devolver excesso de reagente ao frasco original?",
+    "a": [
+      "Pode contaminar o estoque",
+      "Aumenta a precisão",
+      "Reduz sempre o custo",
+      "Melhora a rastreabilidade"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Pode contaminar o estoque. Boas práticas de preparo reduzem contaminação e favorecem a rastreabilidade.",
+    "phase": 5
+  },
+  {
+    "id": "new-049",
+    "topic": "Preparação e procedimentos",
+    "q": "Qual é o papel de uma etiqueta de amostra?",
+    "a": [
+      "Vincular o recipiente à sua identificação e histórico",
+      "Medir absorbância",
+      "Filtrar precipitado",
+      "Controlar tensão elétrica"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Vincular o recipiente à sua identificação e histórico. Boas práticas de preparo reduzem contaminação e favorecem a rastreabilidade.",
+    "phase": 5
+  },
+  {
+    "id": "new-050",
+    "topic": "Preparação e procedimentos",
+    "q": "O que é diluição?",
+    "a": [
+      "Redução da concentração por adição de solvente",
+      "Remoção de todo solvente",
+      "Formação obrigatória de precipitado",
+      "Conversão de cátion em elétron"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Redução da concentração por adição de solvente. Boas práticas de preparo reduzem contaminação e favorecem a rastreabilidade.",
+    "phase": 5
+  },
+  {
+    "id": "new-051",
+    "topic": "Preparação e procedimentos",
+    "q": "Por que usar recipiente limpo antes de uma análise?",
+    "a": [
+      "Reduzir interferências e contaminação",
+      "Aumentar massa do analito",
+      "Criar tampão automaticamente",
+      "Impedir qualquer reação"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Reduzir interferências e contaminação. Boas práticas de preparo reduzem contaminação e favorecem a rastreabilidade.",
+    "phase": 5
+  },
+  {
+    "id": "new-052",
+    "topic": "Preparação e procedimentos",
+    "q": "Qual é a função da lavagem quantitativa de um recipiente?",
+    "a": [
+      "Transferir o máximo possível do analito remanescente",
+      "Produzir espuma",
+      "Aquecer o frasco",
+      "Alterar número de oxidação"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Transferir o máximo possível do analito remanescente. Boas práticas de preparo reduzem contaminação e favorecem a rastreabilidade.",
+    "phase": 5
+  },
+  {
+    "id": "new-053",
+    "topic": "Preparação e procedimentos",
+    "q": "Ao filtrar um precipitado, o filtro escolhido deve...",
+    "a": [
+      "Reter adequadamente as partículas de interesse",
+      "Deixar passar todo sólido",
+      "Reagir com o analito",
+      "Dissolver o recipiente"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Reter adequadamente as partículas de interesse. Boas práticas de preparo reduzem contaminação e favorecem a rastreabilidade.",
+    "phase": 5
+  },
+  {
+    "id": "new-054",
+    "topic": "Preparação e procedimentos",
+    "q": "Qual é o objetivo de anotar observações de cor e turbidez?",
+    "a": [
+      "Documentar evidências para interpretação posterior",
+      "Substituir toda confirmação",
+      "Dispensar identificação",
+      "Mudar o equilíbrio químico"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Documentar evidências para interpretação posterior. Boas práticas de preparo reduzem contaminação e favorecem a rastreabilidade.",
+    "phase": 5
+  },
+  {
+    "id": "new-055",
+    "topic": "Preparação e procedimentos",
+    "q": "Uma amostra composta é formada por...",
+    "a": [
+      "Reunião planejada de porções de coleta",
+      "Somente uma gota aleatória",
+      "Apenas um padrão",
+      "Um precipitado puro"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Reunião planejada de porções de coleta. Boas práticas de preparo reduzem contaminação e favorecem a rastreabilidade.",
+    "phase": 5
+  },
+  {
+    "id": "new-056",
+    "topic": "Preparação e procedimentos",
+    "q": "Por que usar controle positivo quando disponível?",
+    "a": [
+      "Verificar se o procedimento detecta o alvo esperado",
+      "Substituir todas as amostras",
+      "Ocultar interferentes",
+      "Reduzir sempre o pH"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Verificar se o procedimento detecta o alvo esperado. Boas práticas de preparo reduzem contaminação e favorecem a rastreabilidade.",
+    "phase": 5
+  },
+  {
+    "id": "new-057",
+    "topic": "Preparação e procedimentos",
+    "q": "Por que usar controle negativo quando aplicável?",
+    "a": [
+      "Detectar sinais inesperados ou contaminação",
+      "Garantir presença do analito",
+      "Aumentar a concentração",
+      "Produzir sal insolúvel"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Detectar sinais inesperados ou contaminação. Boas práticas de preparo reduzem contaminação e favorecem a rastreabilidade.",
+    "phase": 5
+  },
+  {
+    "id": "new-058",
+    "topic": "Preparação e procedimentos",
+    "q": "Qual prática favorece reprodutibilidade?",
+    "a": [
+      "Seguir procedimento documentado com condições controladas",
+      "Alterar reagentes sem registrar",
+      "Ignorar volumes",
+      "Não registrar resultados"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Seguir procedimento documentado com condições controladas. Boas práticas de preparo reduzem contaminação e favorecem a rastreabilidade.",
+    "phase": 5
+  },
+  {
+    "id": "new-059",
+    "topic": "Preparação e procedimentos",
+    "q": "O que é rastreabilidade metrológica?",
+    "a": [
+      "Ligação documentada de resultados a referências por cadeia de calibrações",
+      "Lista de cores dos precipitados",
+      "Separação de ânions por chama",
+      "Mudança espontânea de massa"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Ligação documentada de resultados a referências por cadeia de calibrações. Boas práticas de preparo reduzem contaminação e favorecem a rastreabilidade.",
+    "phase": 5
+  },
+  {
+    "id": "new-060",
+    "topic": "Preparação e procedimentos",
+    "q": "Por que acondicionar amostras adequadamente?",
+    "a": [
+      "Preservar suas características até a análise",
+      "Aumentar qualquer precipitado",
+      "Dispensar rótulo",
+      "Neutralizar todas as espécies"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Preservar suas características até a análise. Boas práticas de preparo reduzem contaminação e favorecem a rastreabilidade.",
+    "phase": 5
+  },
+  {
+    "id": "new-061",
+    "topic": "Solubilidade e equilíbrios",
+    "q": "Qual regra geral se aplica aos nitratos em água?",
+    "a": [
+      "Em geral são solúveis",
+      "Todos são insolúveis",
+      "Todos são gases",
+      "Sempre têm cor azul"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Em geral são solúveis. A composição do meio pode deslocar equilíbrios de dissolução e precipitação.",
+    "phase": 6
+  },
+  {
+    "id": "new-062",
+    "topic": "Solubilidade e equilíbrios",
+    "q": "Os sais de metais alcalinos costumam ser...",
+    "a": [
+      "Solúveis em água",
+      "Sempre insolúveis",
+      "Sempre precipitados negros",
+      "Sempre gases"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Solúveis em água. A composição do meio pode deslocar equilíbrios de dissolução e precipitação.",
+    "phase": 6
+  },
+  {
+    "id": "new-063",
+    "topic": "Solubilidade e equilíbrios",
+    "q": "Qual sal de prata é pouco solúvel em água?",
+    "a": [
+      "AgBr",
+      "AgNO₃",
+      "NaNO₃",
+      "KCl"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: AgBr. A composição do meio pode deslocar equilíbrios de dissolução e precipitação.",
+    "phase": 6
+  },
+  {
+    "id": "new-064",
+    "topic": "Solubilidade e equilíbrios",
+    "q": "Qual sal de bário é pouco solúvel?",
+    "a": [
+      "BaSO₄",
+      "Ba(NO₃)₂",
+      "BaCl₂",
+      "Ba(CH₃COO)₂"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: BaSO₄. A composição do meio pode deslocar equilíbrios de dissolução e precipitação.",
+    "phase": 6
+  },
+  {
+    "id": "new-065",
+    "topic": "Solubilidade e equilíbrios",
+    "q": "Qual composto é pouco solúvel em água?",
+    "a": [
+      "CaCO₃",
+      "NaNO₃",
+      "KNO₃",
+      "NH₄Cl"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: CaCO₃. A composição do meio pode deslocar equilíbrios de dissolução e precipitação.",
+    "phase": 6
+  },
+  {
+    "id": "new-066",
+    "topic": "Solubilidade e equilíbrios",
+    "q": "O efeito do íon comum geralmente provoca...",
+    "a": [
+      "Diminuição da solubilidade de um sal pouco solúvel",
+      "Aumento ilimitado da solubilidade",
+      "Desaparecimento de cargas",
+      "Mudança de elemento"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Diminuição da solubilidade de um sal pouco solúvel. A composição do meio pode deslocar equilíbrios de dissolução e precipitação.",
+    "phase": 6
+  },
+  {
+    "id": "new-067",
+    "topic": "Solubilidade e equilíbrios",
+    "q": "O Kps descreve...",
+    "a": [
+      "O equilíbrio de dissolução de um sólido pouco solúvel",
+      "A velocidade da luz",
+      "A massa do cadinho",
+      "A cor do indicador"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: O equilíbrio de dissolução de um sólido pouco solúvel. A composição do meio pode deslocar equilíbrios de dissolução e precipitação.",
+    "phase": 6
+  },
+  {
+    "id": "new-068",
+    "topic": "Solubilidade e equilíbrios",
+    "q": "Quando o produto iônico supera o Kps, pode ocorrer...",
+    "a": [
+      "Precipitação",
+      "Desaparecimento do solvente",
+      "Fusão nuclear",
+      "Neutralidade garantida"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Precipitação. A composição do meio pode deslocar equilíbrios de dissolução e precipitação.",
+    "phase": 6
+  },
+  {
+    "id": "new-069",
+    "topic": "Solubilidade e equilíbrios",
+    "q": "A precipitação seletiva depende de diferenças de...",
+    "a": [
+      "Solubilidade e condições de equilíbrio",
+      "Número de vidrarias",
+      "Formato do rótulo",
+      "Cor da bancada"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Solubilidade e condições de equilíbrio. A composição do meio pode deslocar equilíbrios de dissolução e precipitação.",
+    "phase": 6
+  },
+  {
+    "id": "new-070",
+    "topic": "Solubilidade e equilíbrios",
+    "q": "A adição de ligante complexante pode...",
+    "a": [
+      "Aumentar a solubilidade de certos precipitados",
+      "Destruir núcleos atômicos",
+      "Impedir qualquer equilíbrio",
+      "Mudar o elemento metálico"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Aumentar a solubilidade de certos precipitados. A composição do meio pode deslocar equilíbrios de dissolução e precipitação.",
+    "phase": 6
+  },
+  {
+    "id": "new-071",
+    "topic": "Solubilidade e equilíbrios",
+    "q": "Um equilíbrio químico dinâmico apresenta...",
+    "a": [
+      "Processos direto e inverso simultâneos",
+      "Ausência completa de movimento",
+      "Concentrações sempre nulas",
+      "Reação impossível"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Processos direto e inverso simultâneos. A composição do meio pode deslocar equilíbrios de dissolução e precipitação.",
+    "phase": 6
+  },
+  {
+    "id": "new-072",
+    "topic": "Solubilidade e equilíbrios",
+    "q": "O deslocamento de equilíbrio por adição de reagente é explicado por...",
+    "a": [
+      "Princípio de Le Châtelier",
+      "Lei de Ohm apenas",
+      "Lei da inércia apenas",
+      "Princípio de Arquimedes apenas"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Princípio de Le Châtelier. A composição do meio pode deslocar equilíbrios de dissolução e precipitação.",
+    "phase": 6
+  },
+  {
+    "id": "new-073",
+    "topic": "Solubilidade e equilíbrios",
+    "q": "A solubilidade de um composto pode depender de...",
+    "a": [
+      "Temperatura e composição do meio",
+      "Somente nome do frasco",
+      "Somente cor do laboratório",
+      "Somente etiqueta"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Temperatura e composição do meio. A composição do meio pode deslocar equilíbrios de dissolução e precipitação.",
+    "phase": 6
+  },
+  {
+    "id": "new-074",
+    "topic": "Solubilidade e equilíbrios",
+    "q": "Qual fenômeno pode redissolver certos hidróxidos metálicos em excesso de base?",
+    "a": [
+      "Formação de complexos solúveis",
+      "Fissão nuclear",
+      "Evaporação instantânea",
+      "Desaparecimento do metal"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Formação de complexos solúveis. A composição do meio pode deslocar equilíbrios de dissolução e precipitação.",
+    "phase": 6
+  },
+  {
+    "id": "new-075",
+    "topic": "Solubilidade e equilíbrios",
+    "q": "Uma solução saturada contém...",
+    "a": [
+      "Quantidade de soluto em equilíbrio com a fase não dissolvida, nas condições dadas",
+      "Sempre o máximo de qualquer sal",
+      "Somente solvente",
+      "Ausência de íons"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Quantidade de soluto em equilíbrio com a fase não dissolvida, nas condições dadas. A composição do meio pode deslocar equilíbrios de dissolução e precipitação.",
+    "phase": 6
+  },
+  {
+    "id": "new-076",
+    "topic": "Solubilidade e equilíbrios",
+    "q": "O precipitado é a fase...",
+    "a": [
+      "Sólida formada na solução",
+      "Gasosa obrigatória",
+      "Plasmática",
+      "Exclusivamente líquida"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Sólida formada na solução. A composição do meio pode deslocar equilíbrios de dissolução e precipitação.",
+    "phase": 6
+  },
+  {
+    "id": "new-077",
+    "topic": "Solubilidade e equilíbrios",
+    "q": "Por que ajustar o pH em separações por precipitação?",
+    "a": [
+      "O pH altera a especiação e a solubilidade",
+      "O pH determina a massa do béquer",
+      "O pH muda o número atômico",
+      "O pH substitui o reagente"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: O pH altera a especiação e a solubilidade. A composição do meio pode deslocar equilíbrios de dissolução e precipitação.",
+    "phase": 6
+  },
+  {
+    "id": "new-078",
+    "topic": "Solubilidade e equilíbrios",
+    "q": "O hidróxido de alumínio pode dissolver em ácido e em base forte porque é...",
+    "a": [
+      "Anfótero",
+      "Inerte a ácidos",
+      "Um gás nobre",
+      "Sempre neutro"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Anfótero. A composição do meio pode deslocar equilíbrios de dissolução e precipitação.",
+    "phase": 6
+  },
+  {
+    "id": "new-079",
+    "topic": "Solubilidade e equilíbrios",
+    "q": "O sulfeto metálico pode precipitar devido à...",
+    "a": [
+      "Baixa solubilidade do composto formado",
+      "Alta volatilidade do vidro",
+      "Mudança da massa do próton",
+      "Evaporação do cátion"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Baixa solubilidade do composto formado. A composição do meio pode deslocar equilíbrios de dissolução e precipitação.",
+    "phase": 6
+  },
+  {
+    "id": "new-080",
+    "topic": "Solubilidade e equilíbrios",
+    "q": "Uma solução límpida necessariamente não contém íons?",
+    "a": [
+      "Não; íons dissolvidos podem ser invisíveis",
+      "Sim; sempre é água pura",
+      "Sim; sempre é neutra",
+      "Sim; sempre é destilada"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Não; íons dissolvidos podem ser invisíveis. A composição do meio pode deslocar equilíbrios de dissolução e precipitação.",
+    "phase": 6
+  },
+  {
+    "id": "new-081",
+    "topic": "Solubilidade e equilíbrios",
+    "q": "A nucleação é a etapa em que...",
+    "a": [
+      "Surgem núcleos iniciais de uma nova fase sólida",
+      "O filtro se incinera",
+      "A balança calibra",
+      "A amostra evapora por completo"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Surgem núcleos iniciais de uma nova fase sólida. A composição do meio pode deslocar equilíbrios de dissolução e precipitação.",
+    "phase": 6
+  },
+  {
+    "id": "new-082",
+    "topic": "Solubilidade e equilíbrios",
+    "q": "O crescimento cristalino envolve...",
+    "a": [
+      "Deposição de espécies sobre cristais existentes",
+      "Formação de elétrons",
+      "Destruição do solvente",
+      "Mudança do número atômico"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Deposição de espécies sobre cristais existentes. A composição do meio pode deslocar equilíbrios de dissolução e precipitação.",
+    "phase": 6
+  },
+  {
+    "id": "new-083",
+    "topic": "Solubilidade e equilíbrios",
+    "q": "A supersaturação favorece...",
+    "a": [
+      "Formação de núcleos e precipitação",
+      "Ausência de qualquer sólido",
+      "Desaparecimento do soluto",
+      "Neutralidade garantida"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Formação de núcleos e precipitação. A composição do meio pode deslocar equilíbrios de dissolução e precipitação.",
+    "phase": 6
+  },
+  {
+    "id": "new-084",
+    "topic": "Solubilidade e equilíbrios",
+    "q": "O envelhecimento de precipitados pode favorecer...",
+    "a": [
+      "Partículas maiores e mais fáceis de filtrar",
+      "Conversão de ferro em cobre",
+      "Desaparecimento do filtro",
+      "Aumento infinito da solubilidade"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Partículas maiores e mais fáceis de filtrar. A composição do meio pode deslocar equilíbrios de dissolução e precipitação.",
+    "phase": 6
+  },
+  {
+    "id": "new-085",
+    "topic": "Solubilidade e equilíbrios",
+    "q": "Qual é a consequência possível da adsorção superficial no precipitado?",
+    "a": [
+      "Arraste de impurezas",
+      "Aumento de prótons nucleares",
+      "Mudança do elemento",
+      "Perda do campo gravitacional"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Arraste de impurezas. A composição do meio pode deslocar equilíbrios de dissolução e precipitação.",
+    "phase": 6
+  },
+  {
+    "id": "new-086",
+    "topic": "Solubilidade e equilíbrios",
+    "q": "Um sal pouco solúvel pode apresentar íons em solução porque...",
+    "a": [
+      "Existe equilíbrio com pequena fração dissolvida",
+      "É totalmente insolúvel em sentido absoluto",
+      "Não possui rede cristalina",
+      "Não contém carga"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Existe equilíbrio com pequena fração dissolvida. A composição do meio pode deslocar equilíbrios de dissolução e precipitação.",
+    "phase": 6
+  },
+  {
+    "id": "new-087",
+    "topic": "Solubilidade e equilíbrios",
+    "q": "Qual mudança pode afetar a precipitação de carbonatos?",
+    "a": [
+      "Acidificação, por reação com carbonato",
+      "Troca de etiqueta",
+      "Cor da luz ambiente apenas",
+      "Formato da pipeta"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Acidificação, por reação com carbonato. A composição do meio pode deslocar equilíbrios de dissolução e precipitação.",
+    "phase": 6
+  },
+  {
+    "id": "new-088",
+    "topic": "Solubilidade e equilíbrios",
+    "q": "Por que certos precipitados se dissolvem em meio ácido?",
+    "a": [
+      "O ácido consome espécies que participam do equilíbrio",
+      "O ácido destrói os átomos",
+      "Aumenta a massa nuclear",
+      "Muda o vidro em metal"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: O ácido consome espécies que participam do equilíbrio. A composição do meio pode deslocar equilíbrios de dissolução e precipitação.",
+    "phase": 6
+  },
+  {
+    "id": "new-089",
+    "topic": "Solubilidade e equilíbrios",
+    "q": "Qual espécie pode favorecer a complexação de Ag⁺ em meio amoniacal?",
+    "a": [
+      "NH₃",
+      "N₂ gasoso",
+      "Ar",
+      "He"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: NH₃. A composição do meio pode deslocar equilíbrios de dissolução e precipitação.",
+    "phase": 6
+  },
+  {
+    "id": "new-090",
+    "topic": "Solubilidade e equilíbrios",
+    "q": "Qual é a diferença entre dissolução e fusão?",
+    "a": [
+      "Dissolução envolve soluto e solvente; fusão é mudança de estado",
+      "São sempre idênticas",
+      "Fusão exige água",
+      "Dissolução exige chama"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Dissolução envolve soluto e solvente; fusão é mudança de estado. A composição do meio pode deslocar equilíbrios de dissolução e precipitação.",
+    "phase": 6
+  },
+  {
+    "id": "new-091",
+    "topic": "Ensaios qualitativos",
+    "q": "O reagente de Nessler é tradicionalmente associado à detecção de...",
+    "a": [
+      "Amônia ou amônio",
+      "Cloreto exclusivamente",
+      "Sulfato exclusivamente",
+      "Sódio por chama"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Amônia ou amônio. Um ensaio deve ser interpretado conforme suas condições e seletividade.",
+    "phase": 7
+  },
+  {
+    "id": "new-092",
+    "topic": "Ensaios qualitativos",
+    "q": "O teste com tiocianato pode produzir cor vermelha intensa com...",
+    "a": [
+      "Fe³⁺",
+      "Na⁺",
+      "K⁺",
+      "Mg²⁺"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Fe³⁺. Um ensaio deve ser interpretado conforme suas condições e seletividade.",
+    "phase": 7
+  },
+  {
+    "id": "new-093",
+    "topic": "Ensaios qualitativos",
+    "q": "A formação de complexo azul intenso com amônia em excesso sugere...",
+    "a": [
+      "Cu²⁺",
+      "Na⁺",
+      "Ba²⁺",
+      "K⁺"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Cu²⁺. Um ensaio deve ser interpretado conforme suas condições e seletividade.",
+    "phase": 7
+  },
+  {
+    "id": "new-094",
+    "topic": "Ensaios qualitativos",
+    "q": "A adição de AgNO₃ é utilizada classicamente para investigar...",
+    "a": [
+      "Halogenetos",
+      "Todos os nitratos",
+      "Somente potássio",
+      "Somente amônio"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Halogenetos. Um ensaio deve ser interpretado conforme suas condições e seletividade.",
+    "phase": 7
+  },
+  {
+    "id": "new-095",
+    "topic": "Ensaios qualitativos",
+    "q": "Um precipitado branco de AgCl pode dissolver em...",
+    "a": [
+      "Amônia aquosa em condições adequadas",
+      "Óleo mineral",
+      "Água pura em qualquer quantidade",
+      "Etanol absoluto sempre"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Amônia aquosa em condições adequadas. Um ensaio deve ser interpretado conforme suas condições e seletividade.",
+    "phase": 7
+  },
+  {
+    "id": "new-096",
+    "topic": "Ensaios qualitativos",
+    "q": "A reação com Ba²⁺ em meio apropriado pode indicar...",
+    "a": [
+      "Sulfato",
+      "Nitrato diretamente",
+      "Sódio diretamente",
+      "Potássio diretamente"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Sulfato. Um ensaio deve ser interpretado conforme suas condições e seletividade.",
+    "phase": 7
+  },
+  {
+    "id": "new-097",
+    "topic": "Ensaios qualitativos",
+    "q": "A efervescência ao adicionar ácido a carbonato decorre de...",
+    "a": [
+      "Liberação de dióxido de carbono",
+      "Formação de oxigênio puro",
+      "Liberação de nitrogênio",
+      "Formação de cloro sempre"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Liberação de dióxido de carbono. Um ensaio deve ser interpretado conforme suas condições e seletividade.",
+    "phase": 7
+  },
+  {
+    "id": "new-098",
+    "topic": "Ensaios qualitativos",
+    "q": "O odor de ovo podre em certos ensaios pode indicar...",
+    "a": [
+      "Sulfeto de hidrogênio",
+      "Dióxido de carbono",
+      "Oxigênio",
+      "Argônio"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Sulfeto de hidrogênio. Um ensaio deve ser interpretado conforme suas condições e seletividade.",
+    "phase": 7
+  },
+  {
+    "id": "new-099",
+    "topic": "Ensaios qualitativos",
+    "q": "O teste de chama do cálcio costuma apresentar tonalidade...",
+    "a": [
+      "Vermelho-alaranjada",
+      "Azul-marinho",
+      "Preta",
+      "Branca"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Vermelho-alaranjada. Um ensaio deve ser interpretado conforme suas condições e seletividade.",
+    "phase": 7
+  },
+  {
+    "id": "new-100",
+    "topic": "Ensaios qualitativos",
+    "q": "O teste de chama do bário costuma apresentar tonalidade...",
+    "a": [
+      "Verde-amarelada",
+      "Vermelho escuro",
+      "Rosa fluorescente",
+      "Preta"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Verde-amarelada. Um ensaio deve ser interpretado conforme suas condições e seletividade.",
+    "phase": 7
+  },
+  {
+    "id": "new-101",
+    "topic": "Ensaios qualitativos",
+    "q": "O teste de chama do lítio apresenta tonalidade...",
+    "a": [
+      "Vermelho-carmim",
+      "Azul",
+      "Verde escuro",
+      "Branco"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Vermelho-carmim. Um ensaio deve ser interpretado conforme suas condições e seletividade.",
+    "phase": 7
+  },
+  {
+    "id": "new-102",
+    "topic": "Ensaios qualitativos",
+    "q": "O teste de chama do cobre pode apresentar cor...",
+    "a": [
+      "Azul-esverdeada",
+      "Preta",
+      "Cinza",
+      "Branca"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Azul-esverdeada. Um ensaio deve ser interpretado conforme suas condições e seletividade.",
+    "phase": 7
+  },
+  {
+    "id": "new-103",
+    "topic": "Ensaios qualitativos",
+    "q": "Por que o teste de chama do potássio pode exigir filtro de observação?",
+    "a": [
+      "Para reduzir interferência do sódio",
+      "Para aumentar a massa",
+      "Para medir pH",
+      "Para precipitar cloreto"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Para reduzir interferência do sódio. Um ensaio deve ser interpretado conforme suas condições e seletividade.",
+    "phase": 7
+  },
+  {
+    "id": "new-104",
+    "topic": "Ensaios qualitativos",
+    "q": "O teste com amido produz coloração azul-escura na presença de...",
+    "a": [
+      "Iodo molecular em condições apropriadas",
+      "Cloreto de sódio puro",
+      "Sulfato de bário",
+      "Carbonato de cálcio"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Iodo molecular em condições apropriadas. Um ensaio deve ser interpretado conforme suas condições e seletividade.",
+    "phase": 7
+  },
+  {
+    "id": "new-105",
+    "topic": "Ensaios qualitativos",
+    "q": "Uma solução de permanganato apresenta cor característica...",
+    "a": [
+      "Violeta",
+      "Incolor",
+      "Branca",
+      "Amarela pálida"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Violeta. Um ensaio deve ser interpretado conforme suas condições e seletividade.",
+    "phase": 7
+  },
+  {
+    "id": "new-106",
+    "topic": "Ensaios qualitativos",
+    "q": "O dicromato em solução aquosa é geralmente...",
+    "a": [
+      "Alaranjado",
+      "Azul intenso",
+      "Branco",
+      "Preto"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Alaranjado. Um ensaio deve ser interpretado conforme suas condições e seletividade.",
+    "phase": 7
+  },
+  {
+    "id": "new-107",
+    "topic": "Ensaios qualitativos",
+    "q": "O cromato em solução é tipicamente...",
+    "a": [
+      "Amarelo",
+      "Roxo escuro",
+      "Azul",
+      "Preto"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Amarelo. Um ensaio deve ser interpretado conforme suas condições e seletividade.",
+    "phase": 7
+  },
+  {
+    "id": "new-108",
+    "topic": "Ensaios qualitativos",
+    "q": "O complexo de níquel(II) com dimetilglioxima pode formar...",
+    "a": [
+      "Precipitado vermelho",
+      "Gás incolor",
+      "Chama lilás",
+      "Cristais de NaCl"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Precipitado vermelho. Um ensaio deve ser interpretado conforme suas condições e seletividade.",
+    "phase": 7
+  },
+  {
+    "id": "new-109",
+    "topic": "Ensaios qualitativos",
+    "q": "Qual íon pode gerar precipitado preto com sulfeto?",
+    "a": [
+      "Cu²⁺",
+      "Na⁺",
+      "K⁺",
+      "NH₄⁺"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Cu²⁺. Um ensaio deve ser interpretado conforme suas condições e seletividade.",
+    "phase": 7
+  },
+  {
+    "id": "new-110",
+    "topic": "Ensaios qualitativos",
+    "q": "Qual íon forma hidróxido esverdeado que pode oxidar ao ar?",
+    "a": [
+      "Fe²⁺",
+      "Na⁺",
+      "K⁺",
+      "Ag⁺"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Fe²⁺. Um ensaio deve ser interpretado conforme suas condições e seletividade.",
+    "phase": 7
+  },
+  {
+    "id": "new-111",
+    "topic": "Ensaios qualitativos",
+    "q": "Um precipitado branco gelatinoso com OH⁻ pode sugerir...",
+    "a": [
+      "Al³⁺",
+      "Na⁺",
+      "K⁺",
+      "NO₃⁻"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Al³⁺. Um ensaio deve ser interpretado conforme suas condições e seletividade.",
+    "phase": 7
+  },
+  {
+    "id": "new-112",
+    "topic": "Ensaios qualitativos",
+    "q": "A adição de excesso de amônia pode dissolver AgCl por formação de...",
+    "a": [
+      "Complexo diamminprata(I)",
+      "Sulfato de prata",
+      "Carbonato de sódio",
+      "Óxido de bário"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Complexo diamminprata(I). Um ensaio deve ser interpretado conforme suas condições e seletividade.",
+    "phase": 7
+  },
+  {
+    "id": "new-113",
+    "topic": "Ensaios qualitativos",
+    "q": "Um teste seletivo é aquele que...",
+    "a": [
+      "Responde preferencialmente a certas espécies",
+      "Identifica todos os elementos sem exceção",
+      "Dispensa controles",
+      "Não sofre interferências"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Responde preferencialmente a certas espécies. Um ensaio deve ser interpretado conforme suas condições e seletividade.",
+    "phase": 7
+  },
+  {
+    "id": "new-114",
+    "topic": "Ensaios qualitativos",
+    "q": "Um ensaio confirmatório deve ser escolhido por sua...",
+    "a": [
+      "Especificidade ou evidência complementar",
+      "Cor da embalagem",
+      "Menor tamanho do béquer",
+      "Ausência de documentação"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Especificidade ou evidência complementar. Um ensaio deve ser interpretado conforme suas condições e seletividade.",
+    "phase": 7
+  },
+  {
+    "id": "new-115",
+    "topic": "Ensaios qualitativos",
+    "q": "A ausência de precipitado em um ensaio isolado significa...",
+    "a": [
+      "Resultado negativo nas condições do ensaio, sujeito a limitações",
+      "Ausência comprovada de todos os íons",
+      "Que o solvente não existe",
+      "Que não há solutos"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Resultado negativo nas condições do ensaio, sujeito a limitações. Um ensaio deve ser interpretado conforme suas condições e seletividade.",
+    "phase": 7
+  },
+  {
+    "id": "new-116",
+    "topic": "Ensaios qualitativos",
+    "q": "Uma interferência analítica pode causar...",
+    "a": [
+      "Falso positivo ou falso negativo",
+      "Mudança do número atômico",
+      "Desaparecimento do vidro",
+      "Criação de massa"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Falso positivo ou falso negativo. Um ensaio deve ser interpretado conforme suas condições e seletividade.",
+    "phase": 7
+  },
+  {
+    "id": "new-117",
+    "topic": "Ensaios qualitativos",
+    "q": "Por que controlar o pH antes de um teste de sulfetos?",
+    "a": [
+      "Ele afeta a disponibilidade de espécies sulfeto",
+      "Ele substitui o reagente",
+      "Ele determina a cor do jaleco",
+      "Ele altera o número de prótons"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Ele afeta a disponibilidade de espécies sulfeto. Um ensaio deve ser interpretado conforme suas condições e seletividade.",
+    "phase": 7
+  },
+  {
+    "id": "new-118",
+    "topic": "Ensaios qualitativos",
+    "q": "Uma coloração observada em teste de chama resulta de...",
+    "a": [
+      "Emissão de luz por espécies excitadas",
+      "Reflexão obrigatória da cor do vidro",
+      "Formação de precipitado sempre",
+      "Aumento de densidade"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Emissão de luz por espécies excitadas. Um ensaio deve ser interpretado conforme suas condições e seletividade.",
+    "phase": 7
+  },
+  {
+    "id": "new-119",
+    "topic": "Ensaios qualitativos",
+    "q": "A observação de bolhas é um indício de...",
+    "a": [
+      "Possível formação de gás",
+      "Confirmação automática de nitrato",
+      "Ausência de reação",
+      "Precipitação de todos os cátions"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Possível formação de gás. Um ensaio deve ser interpretado conforme suas condições e seletividade.",
+    "phase": 7
+  },
+  {
+    "id": "new-120",
+    "topic": "Ensaios qualitativos",
+    "q": "A identificação qualitativa confiável geralmente combina...",
+    "a": [
+      "Observações, separações e testes confirmatórios",
+      "Apenas uma cor sem controles",
+      "Somente aparência do frasco",
+      "Somente a massa do béquer"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Observações, separações e testes confirmatórios. Um ensaio deve ser interpretado conforme suas condições e seletividade.",
+    "phase": 7
+  },
+  {
+    "id": "new-121",
+    "topic": "Instrumentação e equipamentos",
+    "q": "Para que serve o banho-maria?",
+    "a": [
+      "Aquecer amostras de modo indireto e controlado",
+      "Medir massa",
+      "Identificar cátions por chama",
+      "Medir potencial elétrico"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Aquecer amostras de modo indireto e controlado. O equipamento deve ser escolhido conforme a função analítica.",
+    "phase": 8
+  },
+  {
+    "id": "new-122",
+    "topic": "Instrumentação e equipamentos",
+    "q": "O bico de Bunsen fornece...",
+    "a": [
+      "Chama para aquecimento quando apropriado",
+      "Vácuo para filtração",
+      "Leitura de pH",
+      "Agitação magnética"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Chama para aquecimento quando apropriado. O equipamento deve ser escolhido conforme a função analítica.",
+    "phase": 8
+  },
+  {
+    "id": "new-123",
+    "topic": "Instrumentação e equipamentos",
+    "q": "Uma chapa aquecedora é utilizada para...",
+    "a": [
+      "Aquecer recipientes sem chama aberta",
+      "Filtrar a vácuo",
+      "Medir volume exato",
+      "Separar ânions por massa"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Aquecer recipientes sem chama aberta. O equipamento deve ser escolhido conforme a função analítica.",
+    "phase": 8
+  },
+  {
+    "id": "new-124",
+    "topic": "Instrumentação e equipamentos",
+    "q": "O agitador magnético utiliza...",
+    "a": [
+      "Barra magnética movida por campo rotativo",
+      "Lâmina de corte",
+      "Radiação gama",
+      "Papel indicador"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Barra magnética movida por campo rotativo. O equipamento deve ser escolhido conforme a função analítica.",
+    "phase": 8
+  },
+  {
+    "id": "new-125",
+    "topic": "Instrumentação e equipamentos",
+    "q": "A estufa de secagem é empregada para...",
+    "a": [
+      "Remover umidade sob temperatura controlada",
+      "Criar vácuo absoluto",
+      "Medir absorbância",
+      "Determinar pH"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Remover umidade sob temperatura controlada. O equipamento deve ser escolhido conforme a função analítica.",
+    "phase": 8
+  },
+  {
+    "id": "new-126",
+    "topic": "Instrumentação e equipamentos",
+    "q": "A mufla permite...",
+    "a": [
+      "Tratamento térmico de sólidos em temperaturas elevadas",
+      "Titulação automática por gravidade",
+      "Filtração por membrana",
+      "Medida direta de pH"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Tratamento térmico de sólidos em temperaturas elevadas. O equipamento deve ser escolhido conforme a função analítica.",
+    "phase": 8
+  },
+  {
+    "id": "new-127",
+    "topic": "Instrumentação e equipamentos",
+    "q": "A centrífuga separa componentes pela...",
+    "a": [
+      "Sedimentação acelerada sob rotação",
+      "Diferença de cor apenas",
+      "Absorbância apenas",
+      "Capilaridade apenas"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Sedimentação acelerada sob rotação. O equipamento deve ser escolhido conforme a função analítica.",
+    "phase": 8
+  },
+  {
+    "id": "new-128",
+    "topic": "Instrumentação e equipamentos",
+    "q": "A balança analítica deve ficar preferencialmente...",
+    "a": [
+      "Em superfície estável, sem correntes de ar",
+      "Ao lado de chama forte",
+      "Em bancada vibratória",
+      "Dentro de pia molhada"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Em superfície estável, sem correntes de ar. O equipamento deve ser escolhido conforme a função analítica.",
+    "phase": 8
+  },
+  {
+    "id": "new-129",
+    "topic": "Instrumentação e equipamentos",
+    "q": "O termômetro é utilizado para...",
+    "a": [
+      "Medir temperatura",
+      "Determinar massa diretamente",
+      "Medir pH diretamente",
+      "Pesar sólidos"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Medir temperatura. O equipamento deve ser escolhido conforme a função analítica.",
+    "phase": 8
+  },
+  {
+    "id": "new-130",
+    "topic": "Instrumentação e equipamentos",
+    "q": "O espectrofotômetro UV-Vis mede principalmente...",
+    "a": [
+      "Absorbância ou transmitância da luz",
+      "Massa por pesagem",
+      "Volume por menisco",
+      "Condutividade diretamente"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Absorbância ou transmitância da luz. O equipamento deve ser escolhido conforme a função analítica.",
+    "phase": 8
+  },
+  {
+    "id": "new-131",
+    "topic": "Instrumentação e equipamentos",
+    "q": "O condutivímetro avalia...",
+    "a": [
+      "Condutividade elétrica da solução",
+      "Massa do precipitado",
+      "Cor da chama",
+      "Ponto de fusão do vidro"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Condutividade elétrica da solução. O equipamento deve ser escolhido conforme a função analítica.",
+    "phase": 8
+  },
+  {
+    "id": "new-132",
+    "topic": "Instrumentação e equipamentos",
+    "q": "O turbidímetro avalia...",
+    "a": [
+      "Turbidez da amostra",
+      "Massa molar diretamente",
+      "Número de prótons",
+      "Ponto de ebulição diretamente"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Turbidez da amostra. O equipamento deve ser escolhido conforme a função analítica.",
+    "phase": 8
+  },
+  {
+    "id": "new-133",
+    "topic": "Instrumentação e equipamentos",
+    "q": "O refratômetro mede...",
+    "a": [
+      "Índice de refração",
+      "pH diretamente",
+      "Massa atômica",
+      "Número de elétrons"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Índice de refração. O equipamento deve ser escolhido conforme a função analítica.",
+    "phase": 8
+  },
+  {
+    "id": "new-134",
+    "topic": "Instrumentação e equipamentos",
+    "q": "A bomba de vácuo auxilia em...",
+    "a": [
+      "Filtração a pressão reduzida",
+      "Medição de cor por chama",
+      "Pesagem de íons",
+      "Preparação de tampão automaticamente"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Filtração a pressão reduzida. O equipamento deve ser escolhido conforme a função analítica.",
+    "phase": 8
+  },
+  {
+    "id": "new-135",
+    "topic": "Instrumentação e equipamentos",
+    "q": "A função do suporte universal é...",
+    "a": [
+      "Sustentar montagens e acessórios",
+      "Medir pH",
+      "Secar precipitado",
+      "Titular sozinho"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Sustentar montagens e acessórios. O equipamento deve ser escolhido conforme a função analítica.",
+    "phase": 8
+  },
+  {
+    "id": "new-136",
+    "topic": "Instrumentação e equipamentos",
+    "q": "A garra de laboratório serve para...",
+    "a": [
+      "Fixar vidrarias e componentes",
+      "Determinar solubilidade",
+      "Medir absorbância",
+      "Ler o menisco"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Fixar vidrarias e componentes. O equipamento deve ser escolhido conforme a função analítica.",
+    "phase": 8
+  },
+  {
+    "id": "new-137",
+    "topic": "Instrumentação e equipamentos",
+    "q": "O tripé e a tela apropriada podem ser usados para...",
+    "a": [
+      "Apoiar recipientes durante aquecimento",
+      "Medir densidade diretamente",
+      "Pipetar com precisão",
+      "Centrifugar"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Apoiar recipientes durante aquecimento. O equipamento deve ser escolhido conforme a função analítica.",
+    "phase": 8
+  },
+  {
+    "id": "new-138",
+    "topic": "Instrumentação e equipamentos",
+    "q": "O almofariz e pistilo são usados para...",
+    "a": [
+      "Triturar e homogeneizar sólidos",
+      "Medir pH",
+      "Condensar vapores",
+      "Separar líquidos por densidade"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Triturar e homogeneizar sólidos. O equipamento deve ser escolhido conforme a função analítica.",
+    "phase": 8
+  },
+  {
+    "id": "new-139",
+    "topic": "Instrumentação e equipamentos",
+    "q": "A espátula de laboratório serve para...",
+    "a": [
+      "Transferir pequenas porções de sólidos",
+      "Medir volume exato",
+      "Ler absorbância",
+      "Medir temperatura"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Transferir pequenas porções de sólidos. O equipamento deve ser escolhido conforme a função analítica.",
+    "phase": 8
+  },
+  {
+    "id": "new-140",
+    "topic": "Instrumentação e equipamentos",
+    "q": "O funil de separação é adequado para...",
+    "a": [
+      "Separar líquidos imiscíveis",
+      "Pesar precipitados",
+      "Medir pH",
+      "Aquecer cadinhos"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Separar líquidos imiscíveis. O equipamento deve ser escolhido conforme a função analítica.",
+    "phase": 8
+  },
+  {
+    "id": "new-141",
+    "topic": "Instrumentação e equipamentos",
+    "q": "O condensador de Liebig atua na...",
+    "a": [
+      "Condensação de vapores",
+      "Medida de massa",
+      "Determinação de pH",
+      "Filtração de sólidos"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Condensação de vapores. O equipamento deve ser escolhido conforme a função analítica.",
+    "phase": 8
+  },
+  {
+    "id": "new-142",
+    "topic": "Instrumentação e equipamentos",
+    "q": "O balão de fundo redondo é comum em...",
+    "a": [
+      "Montagens de aquecimento e destilação",
+      "Pesagem analítica direta",
+      "Leitura de pH por eletrodo",
+      "Separação por centrifugação"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Montagens de aquecimento e destilação. O equipamento deve ser escolhido conforme a função analítica.",
+    "phase": 8
+  },
+  {
+    "id": "new-143",
+    "topic": "Instrumentação e equipamentos",
+    "q": "O frasco lavador (pisseta) é utilizado para...",
+    "a": [
+      "Direcionar jatos de líquido de lavagem",
+      "Medir volume com exatidão",
+      "Pesar amostra",
+      "Aquecer a chama"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Direcionar jatos de líquido de lavagem. O equipamento deve ser escolhido conforme a função analítica.",
+    "phase": 8
+  },
+  {
+    "id": "new-144",
+    "topic": "Instrumentação e equipamentos",
+    "q": "A micropipeta automática é apropriada para...",
+    "a": [
+      "Dispensar pequenos volumes ajustáveis dentro da faixa indicada",
+      "Secar precipitados",
+      "Aquecer sólidos",
+      "Medir condutividade"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Dispensar pequenos volumes ajustáveis dentro da faixa indicada. O equipamento deve ser escolhido conforme a função analítica.",
+    "phase": 8
+  },
+  {
+    "id": "new-145",
+    "topic": "Instrumentação e equipamentos",
+    "q": "Qual equipamento fornece água purificada por processo específico?",
+    "a": [
+      "Sistema de purificação de água",
+      "Bico de Bunsen",
+      "Cadinho",
+      "Termômetro"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Sistema de purificação de água. O equipamento deve ser escolhido conforme a função analítica.",
+    "phase": 8
+  },
+  {
+    "id": "new-146",
+    "topic": "Instrumentação e equipamentos",
+    "q": "O banho ultrassônico auxilia na...",
+    "a": [
+      "Limpeza e dispersão por ultrassom",
+      "Pesagem gravimétrica direta",
+      "Titulação por gravidade",
+      "Medição de pH sem eletrodo"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Limpeza e dispersão por ultrassom. O equipamento deve ser escolhido conforme a função analítica.",
+    "phase": 8
+  },
+  {
+    "id": "new-147",
+    "topic": "Instrumentação e equipamentos",
+    "q": "A capela química deve ser usada para...",
+    "a": [
+      "Manipular substâncias com vapores perigosos sob exaustão adequada",
+      "Substituir qualquer treinamento",
+      "Armazenar alimentos",
+      "Pesar amostras em chama"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Manipular substâncias com vapores perigosos sob exaustão adequada. O equipamento deve ser escolhido conforme a função analítica.",
+    "phase": 8
+  },
+  {
+    "id": "new-148",
+    "topic": "Instrumentação e equipamentos",
+    "q": "O dessecador pode conter sílica gel para...",
+    "a": [
+      "Controlar umidade no interior",
+      "Aumentar a umidade",
+      "Criar gás cloro",
+      "Medir absorbância"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Controlar umidade no interior. O equipamento deve ser escolhido conforme a função analítica.",
+    "phase": 8
+  },
+  {
+    "id": "new-149",
+    "topic": "Instrumentação e equipamentos",
+    "q": "O funil comum com papel de filtro permite...",
+    "a": [
+      "Filtração por gravidade",
+      "Medir volume exato",
+      "Aquecimento intenso",
+      "Centrifugação"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Filtração por gravidade. O equipamento deve ser escolhido conforme a função analítica.",
+    "phase": 8
+  },
+  {
+    "id": "new-150",
+    "topic": "Instrumentação e equipamentos",
+    "q": "O banho termostatizado é útil quando se deseja...",
+    "a": [
+      "Manter temperatura controlada por determinado período",
+      "Determinar carga nuclear",
+      "Substituir balança",
+      "Produzir vácuo absoluto"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Manter temperatura controlada por determinado período. O equipamento deve ser escolhido conforme a função analítica.",
+    "phase": 8
+  },
+  {
+    "id": "new-151",
+    "topic": "Qualidade e interpretação",
+    "q": "Precisão analítica está associada principalmente à...",
+    "a": [
+      "Proximidade entre resultados repetidos",
+      "Proximidade ao valor verdadeiro exclusivamente",
+      "Cor do reagente",
+      "Massa do laboratório"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Proximidade entre resultados repetidos. Resultados confiáveis exigem controle, documentação e interpretação.",
+    "phase": 9
+  },
+  {
+    "id": "new-152",
+    "topic": "Qualidade e interpretação",
+    "q": "Exatidão está relacionada à...",
+    "a": [
+      "Proximidade do resultado ao valor de referência",
+      "Apenas repetição idêntica",
+      "Quantidade de vidrarias",
+      "Temperatura da sala"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Proximidade do resultado ao valor de referência. Resultados confiáveis exigem controle, documentação e interpretação.",
+    "phase": 9
+  },
+  {
+    "id": "new-153",
+    "topic": "Qualidade e interpretação",
+    "q": "Um erro sistemático tende a...",
+    "a": [
+      "Deslocar resultados de forma consistente",
+      "Produzir somente ruído aleatório",
+      "Desaparecer com mais casas decimais",
+      "Afetar apenas a cor"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Deslocar resultados de forma consistente. Resultados confiáveis exigem controle, documentação e interpretação.",
+    "phase": 9
+  },
+  {
+    "id": "new-154",
+    "topic": "Qualidade e interpretação",
+    "q": "Um erro aleatório provoca...",
+    "a": [
+      "Dispersão imprevisível dos resultados",
+      "Deslocamento fixo obrigatório",
+      "Ausência de variabilidade",
+      "Mudança de elemento"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Dispersão imprevisível dos resultados. Resultados confiáveis exigem controle, documentação e interpretação.",
+    "phase": 9
+  },
+  {
+    "id": "new-155",
+    "topic": "Qualidade e interpretação",
+    "q": "Uma amostra em branco deve apresentar idealmente...",
+    "a": [
+      "Ausência de sinal atribuível ao analito",
+      "Sempre sinal máximo",
+      "Sempre precipitado preto",
+      "Sempre pH neutro"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Ausência de sinal atribuível ao analito. Resultados confiáveis exigem controle, documentação e interpretação.",
+    "phase": 9
+  },
+  {
+    "id": "new-156",
+    "topic": "Qualidade e interpretação",
+    "q": "A calibração relaciona...",
+    "a": [
+      "Indicações do instrumento a referências conhecidas",
+      "Cor do jaleco à temperatura",
+      "Massa do filtro à luz",
+      "Volume do béquer ao rótulo"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Indicações do instrumento a referências conhecidas. Resultados confiáveis exigem controle, documentação e interpretação.",
+    "phase": 9
+  },
+  {
+    "id": "new-157",
+    "topic": "Qualidade e interpretação",
+    "q": "A verificação de equipamento confirma...",
+    "a": [
+      "Atendimento a requisitos definidos",
+      "Ausência de necessidade de manutenção",
+      "Exatidão eterna",
+      "Identificação automática de íons"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Atendimento a requisitos definidos. Resultados confiáveis exigem controle, documentação e interpretação.",
+    "phase": 9
+  },
+  {
+    "id": "new-158",
+    "topic": "Qualidade e interpretação",
+    "q": "O limite de detecção indica...",
+    "a": [
+      "Menor quantidade ou concentração detectável segundo critério",
+      "Maior massa do recipiente",
+      "pH máximo possível",
+      "Cor obrigatória do precipitado"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Menor quantidade ou concentração detectável segundo critério. Resultados confiáveis exigem controle, documentação e interpretação.",
+    "phase": 9
+  },
+  {
+    "id": "new-159",
+    "topic": "Qualidade e interpretação",
+    "q": "O limite de quantificação refere-se a...",
+    "a": [
+      "Menor nível quantificável com desempenho aceitável",
+      "Qualquer cor visível",
+      "Maior volume do frasco",
+      "Ausência de erro"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Menor nível quantificável com desempenho aceitável. Resultados confiáveis exigem controle, documentação e interpretação.",
+    "phase": 9
+  },
+  {
+    "id": "new-160",
+    "topic": "Qualidade e interpretação",
+    "q": "Uma curva analítica é utilizada para...",
+    "a": [
+      "Relacionar sinal medido e concentração de padrões",
+      "Separar sólidos por filtração",
+      "Medir pH visualmente",
+      "Determinar massa sem balança"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Relacionar sinal medido e concentração de padrões. Resultados confiáveis exigem controle, documentação e interpretação.",
+    "phase": 9
+  },
+  {
+    "id": "new-161",
+    "topic": "Qualidade e interpretação",
+    "q": "O branco de método acompanha...",
+    "a": [
+      "Etapas do procedimento sem analito intencional",
+      "Somente o equipamento desligado",
+      "Somente a amostra desconhecida",
+      "Somente o descarte"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Etapas do procedimento sem analito intencional. Resultados confiáveis exigem controle, documentação e interpretação.",
+    "phase": 9
+  },
+  {
+    "id": "new-162",
+    "topic": "Qualidade e interpretação",
+    "q": "Uma amostra fortificada contém...",
+    "a": [
+      "Quantidade conhecida de analito adicionada",
+      "Somente solvente puro",
+      "Apenas precipitado seco",
+      "Gás desconhecido"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Quantidade conhecida de analito adicionada. Resultados confiáveis exigem controle, documentação e interpretação.",
+    "phase": 9
+  },
+  {
+    "id": "new-163",
+    "topic": "Qualidade e interpretação",
+    "q": "A recuperação analítica avalia...",
+    "a": [
+      "Quanto do analito adicionado é recuperado pelo método",
+      "Cor da solução",
+      "Tamanho do laboratório",
+      "Quantidade de béqueres"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Quanto do analito adicionado é recuperado pelo método. Resultados confiáveis exigem controle, documentação e interpretação.",
+    "phase": 9
+  },
+  {
+    "id": "new-164",
+    "topic": "Qualidade e interpretação",
+    "q": "Uma carta de controle auxilia a...",
+    "a": [
+      "Monitorar estabilidade do processo analítico",
+      "Escolher cor do rótulo",
+      "Pesar sólidos sem balança",
+      "Identificar todos os ânions"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Monitorar estabilidade do processo analítico. Resultados confiáveis exigem controle, documentação e interpretação.",
+    "phase": 9
+  },
+  {
+    "id": "new-165",
+    "topic": "Qualidade e interpretação",
+    "q": "O desvio padrão expressa...",
+    "a": [
+      "Dispersão dos resultados",
+      "Identidade do analito",
+      "Cor da chama",
+      "Carga do elétron"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Dispersão dos resultados. Resultados confiáveis exigem controle, documentação e interpretação.",
+    "phase": 9
+  },
+  {
+    "id": "new-166",
+    "topic": "Qualidade e interpretação",
+    "q": "Um resultado abaixo do limite de detecção deve ser relatado...",
+    "a": [
+      "Segundo critério do método, sem inventar valor quantificado",
+      "Sempre como zero exato",
+      "Sempre como valor máximo",
+      "Sempre como precipitado"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Segundo critério do método, sem inventar valor quantificado. Resultados confiáveis exigem controle, documentação e interpretação.",
+    "phase": 9
+  },
+  {
+    "id": "new-167",
+    "topic": "Qualidade e interpretação",
+    "q": "Uma não conformidade ocorre quando...",
+    "a": [
+      "Um requisito especificado não é atendido",
+      "Toda amostra é colorida",
+      "Toda solução tem pH",
+      "Todo ensaio usa água"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Um requisito especificado não é atendido. Resultados confiáveis exigem controle, documentação e interpretação.",
+    "phase": 9
+  },
+  {
+    "id": "new-168",
+    "topic": "Qualidade e interpretação",
+    "q": "O procedimento operacional padrão (POP) descreve...",
+    "a": [
+      "Como executar uma atividade de modo documentado",
+      "Apenas a cor dos frascos",
+      "Somente o calendário",
+      "Somente o preço do reagente"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Como executar uma atividade de modo documentado. Resultados confiáveis exigem controle, documentação e interpretação.",
+    "phase": 9
+  },
+  {
+    "id": "new-169",
+    "topic": "Qualidade e interpretação",
+    "q": "A rastreabilidade de amostras permite...",
+    "a": [
+      "Reconstruir seu percurso e registros",
+      "Eliminar toda incerteza",
+      "Alterar resultado sem registro",
+      "Dispensar identificação"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Reconstruir seu percurso e registros. Resultados confiáveis exigem controle, documentação e interpretação.",
+    "phase": 9
+  },
+  {
+    "id": "new-170",
+    "topic": "Qualidade e interpretação",
+    "q": "Uma amostra duplicata pode ajudar a avaliar...",
+    "a": [
+      "Repetibilidade ou variabilidade do processo",
+      "Número de prótons",
+      "Cor do equipamento",
+      "Ponto de fusão do vidro"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Repetibilidade ou variabilidade do processo. Resultados confiáveis exigem controle, documentação e interpretação.",
+    "phase": 9
+  },
+  {
+    "id": "new-171",
+    "topic": "Qualidade e interpretação",
+    "q": "A seletividade do método está ligada à...",
+    "a": [
+      "Capacidade de distinguir o analito de interferentes",
+      "Tamanho da bancada",
+      "Marca do jaleco",
+      "Formato do computador"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Capacidade de distinguir o analito de interferentes. Resultados confiáveis exigem controle, documentação e interpretação.",
+    "phase": 9
+  },
+  {
+    "id": "new-172",
+    "topic": "Qualidade e interpretação",
+    "q": "A robustez de um método indica...",
+    "a": [
+      "Resistência a pequenas variações deliberadas nas condições",
+      "Ausência de qualquer risco",
+      "Sensibilidade a qualquer toque",
+      "Obrigação de mudar de reagente"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Resistência a pequenas variações deliberadas nas condições. Resultados confiáveis exigem controle, documentação e interpretação.",
+    "phase": 9
+  },
+  {
+    "id": "new-173",
+    "topic": "Qualidade e interpretação",
+    "q": "A sensibilidade analítica relaciona-se à...",
+    "a": [
+      "Variação do sinal frente à variação do analito",
+      "Massa do operador",
+      "Cor do armário",
+      "Volume do laboratório"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Variação do sinal frente à variação do analito. Resultados confiáveis exigem controle, documentação e interpretação.",
+    "phase": 9
+  },
+  {
+    "id": "new-174",
+    "topic": "Qualidade e interpretação",
+    "q": "O relatório analítico deve apresentar...",
+    "a": [
+      "Identificação, método, resultados e informações pertinentes",
+      "Somente o nome do aluno",
+      "Apenas uma fotografia",
+      "Apenas a marca da pipeta"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Identificação, método, resultados e informações pertinentes. Resultados confiáveis exigem controle, documentação e interpretação.",
+    "phase": 9
+  },
+  {
+    "id": "new-175",
+    "topic": "Qualidade e interpretação",
+    "q": "Por que manter registros originais?",
+    "a": [
+      "Preservar evidências e permitir auditoria",
+      "Evitar rastreabilidade",
+      "Eliminar controles",
+      "Substituir toda calibração"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Preservar evidências e permitir auditoria. Resultados confiáveis exigem controle, documentação e interpretação.",
+    "phase": 9
+  },
+  {
+    "id": "new-176",
+    "topic": "Qualidade e interpretação",
+    "q": "Um resultado suspeito deve ser...",
+    "a": [
+      "Investigado segundo critérios documentados",
+      "Apagado sem registro",
+      "Sempre aceito",
+      "Sempre substituído pela média"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Investigado segundo critérios documentados. Resultados confiáveis exigem controle, documentação e interpretação.",
+    "phase": 9
+  },
+  {
+    "id": "new-177",
+    "topic": "Qualidade e interpretação",
+    "q": "O arredondamento de resultados deve respeitar...",
+    "a": [
+      "Critérios de apresentação e incerteza",
+      "Quantidade de vidrarias",
+      "Cor do indicador",
+      "Temperatura do professor"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Critérios de apresentação e incerteza. Resultados confiáveis exigem controle, documentação e interpretação.",
+    "phase": 9
+  },
+  {
+    "id": "new-178",
+    "topic": "Qualidade e interpretação",
+    "q": "Uma amostra de referência certificada pode ser usada para...",
+    "a": [
+      "Avaliar desempenho e exatidão do método",
+      "Substituir todos os EPIs",
+      "Aumentar solubilidade sempre",
+      "Determinar a cor do jaleco"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Avaliar desempenho e exatidão do método. Resultados confiáveis exigem controle, documentação e interpretação.",
+    "phase": 9
+  },
+  {
+    "id": "new-179",
+    "topic": "Qualidade e interpretação",
+    "q": "Um ensaio interlaboratorial ajuda a...",
+    "a": [
+      "Comparar desempenho entre laboratórios",
+      "Determinar número atômico",
+      "Criar novos íons",
+      "Substituir equipamentos"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Comparar desempenho entre laboratórios. Resultados confiáveis exigem controle, documentação e interpretação.",
+    "phase": 9
+  },
+  {
+    "id": "new-180",
+    "topic": "Qualidade e interpretação",
+    "q": "A incerteza de medição expressa...",
+    "a": [
+      "Dispersão de valores atribuíveis ao mensurando com base nas informações disponíveis",
+      "Erro obrigatório e conhecido exatamente",
+      "Cor do indicador",
+      "Quantidade de filtros"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Dispersão de valores atribuíveis ao mensurando com base nas informações disponíveis. Resultados confiáveis exigem controle, documentação e interpretação.",
+    "phase": 9
+  },
+  {
+    "id": "new-181",
+    "topic": "Gravimetria avançada",
+    "q": "A forma de precipitação é necessariamente igual à forma de pesagem?",
+    "a": [
+      "Não; o sólido pode ser convertido antes da pesagem",
+      "Sim, em qualquer método",
+      "Somente para gases",
+      "Somente quando não há filtro"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Não; o sólido pode ser convertido antes da pesagem. O controle do precipitado evita perdas e contaminações na determinação de massa.",
+    "phase": 10
+  },
+  {
+    "id": "new-182",
+    "topic": "Gravimetria avançada",
+    "q": "Por que a digestão de precipitados pode melhorar a filtração?",
+    "a": [
+      "Favorece crescimento e reorganização de partículas",
+      "Cria novos elementos",
+      "Elimina o analito",
+      "Muda o número atômico"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Favorece crescimento e reorganização de partículas. O controle do precipitado evita perdas e contaminações na determinação de massa.",
+    "phase": 10
+  },
+  {
+    "id": "new-183",
+    "topic": "Gravimetria avançada",
+    "q": "O que é oclusão em precipitados?",
+    "a": [
+      "Aprisionamento de impurezas durante crescimento cristalino",
+      "Leitura do menisco",
+      "Mudança de pH por eletrodo",
+      "Evaporação de gases"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Aprisionamento de impurezas durante crescimento cristalino. O controle do precipitado evita perdas e contaminações na determinação de massa.",
+    "phase": 10
+  },
+  {
+    "id": "new-184",
+    "topic": "Gravimetria avançada",
+    "q": "O que é inclusão cristalina?",
+    "a": [
+      "Incorporação de íons estranhos na rede do cristal",
+      "Aquecimento do cadinho",
+      "Formação de vácuo",
+      "Mudança de solvente"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Incorporação de íons estranhos na rede do cristal. O controle do precipitado evita perdas e contaminações na determinação de massa.",
+    "phase": 10
+  },
+  {
+    "id": "new-185",
+    "topic": "Gravimetria avançada",
+    "q": "O que significa peptização de um precipitado?",
+    "a": [
+      "Dispersão de agregado em partículas coloidais",
+      "Calcinação completa",
+      "Filtração a vácuo",
+      "Titulação por bureta"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Dispersão de agregado em partículas coloidais. O controle do precipitado evita perdas e contaminações na determinação de massa.",
+    "phase": 10
+  },
+  {
+    "id": "new-186",
+    "topic": "Gravimetria avançada",
+    "q": "Por que lavar precipitados com solução apropriada e não sempre com água pura?",
+    "a": [
+      "Para reduzir perdas por dissolução ou peptização",
+      "Para aumentar a cor",
+      "Para medir temperatura",
+      "Para criar mais analito"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Para reduzir perdas por dissolução ou peptização. O controle do precipitado evita perdas e contaminações na determinação de massa.",
+    "phase": 10
+  },
+  {
+    "id": "new-187",
+    "topic": "Gravimetria avançada",
+    "q": "Um precipitado coloidal costuma apresentar...",
+    "a": [
+      "Partículas pequenas e difícil filtração",
+      "Cristais sempre enormes",
+      "Ausência de superfície",
+      "Composição gasosa"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Partículas pequenas e difícil filtração. O controle do precipitado evita perdas e contaminações na determinação de massa.",
+    "phase": 10
+  },
+  {
+    "id": "new-188",
+    "topic": "Gravimetria avançada",
+    "q": "A precipitação homogênea envolve...",
+    "a": [
+      "Geração gradual do agente precipitante no meio",
+      "Mistura aleatória de sólidos",
+      "Ausência de reação",
+      "Uso obrigatório de chama"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Geração gradual do agente precipitante no meio. O controle do precipitado evita perdas e contaminações na determinação de massa.",
+    "phase": 10
+  },
+  {
+    "id": "new-189",
+    "topic": "Gravimetria avançada",
+    "q": "O que é pós-precipitação?",
+    "a": [
+      "Formação posterior de outra fase sólida sobre o precipitado inicial",
+      "Evaporação da amostra",
+      "Leitura de pH",
+      "Dissolução completa"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Formação posterior de outra fase sólida sobre o precipitado inicial. O controle do precipitado evita perdas e contaminações na determinação de massa.",
+    "phase": 10
+  },
+  {
+    "id": "new-190",
+    "topic": "Gravimetria avançada",
+    "q": "A lavagem insuficiente pode causar...",
+    "a": [
+      "Impurezas residuais na massa final",
+      "Perda de todos os elétrons",
+      "Ausência de umidade",
+      "Redução da temperatura do laboratório"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Impurezas residuais na massa final. O controle do precipitado evita perdas e contaminações na determinação de massa.",
+    "phase": 10
+  },
+  {
+    "id": "new-191",
+    "topic": "Gravimetria avançada",
+    "q": "A lavagem excessiva pode causar...",
+    "a": [
+      "Perda do analito por dissolução ou dispersão",
+      "Criação de massa",
+      "Aumento obrigatório da pureza",
+      "Transformação do cátion em gás nobre"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Perda do analito por dissolução ou dispersão. O controle do precipitado evita perdas e contaminações na determinação de massa.",
+    "phase": 10
+  },
+  {
+    "id": "new-192",
+    "topic": "Gravimetria avançada",
+    "q": "Um cadinho de porcelana é empregado quando...",
+    "a": [
+      "Suas propriedades são compatíveis com o tratamento térmico",
+      "Sempre se exige volume exato",
+      "A amostra é necessariamente gasosa",
+      "O método exige chama colorida"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Suas propriedades são compatíveis com o tratamento térmico. O controle do precipitado evita perdas e contaminações na determinação de massa.",
+    "phase": 10
+  },
+  {
+    "id": "new-193",
+    "topic": "Gravimetria avançada",
+    "q": "O cadinho de vidro sinterizado pode funcionar como...",
+    "a": [
+      "Meio filtrante poroso",
+      "Indicador ácido-base",
+      "Condensador de vapores",
+      "Pipeta volumétrica"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Meio filtrante poroso. O controle do precipitado evita perdas e contaminações na determinação de massa.",
+    "phase": 10
+  },
+  {
+    "id": "new-194",
+    "topic": "Gravimetria avançada",
+    "q": "Por que não pesar um cadinho ainda muito quente?",
+    "a": [
+      "Convecção e efeitos térmicos prejudicam a pesagem",
+      "O metal se torna radioativo",
+      "A balança mede pH",
+      "O vidro se transforma em água"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Convecção e efeitos térmicos prejudicam a pesagem. O controle do precipitado evita perdas e contaminações na determinação de massa.",
+    "phase": 10
+  },
+  {
+    "id": "new-195",
+    "topic": "Gravimetria avançada",
+    "q": "O que é massa constante em um método gravimétrico?",
+    "a": [
+      "Estabilidade entre pesagens sucessivas dentro de tolerância",
+      "Peso fixo de qualquer amostra",
+      "Ausência de evaporação no mundo",
+      "Mesmo resultado para todas as amostras"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Estabilidade entre pesagens sucessivas dentro de tolerância. O controle do precipitado evita perdas e contaminações na determinação de massa.",
+    "phase": 10
+  },
+  {
+    "id": "new-196",
+    "topic": "Gravimetria avançada",
+    "q": "A perda de precipitado durante transferência provoca tendência a...",
+    "a": [
+      "Subestimar a quantidade do analito",
+      "Superestimar sempre",
+      "Não alterar o resultado",
+      "Alterar o número de prótons"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Subestimar a quantidade do analito. O controle do precipitado evita perdas e contaminações na determinação de massa.",
+    "phase": 10
+  },
+  {
+    "id": "new-197",
+    "topic": "Gravimetria avançada",
+    "q": "Impurezas retidas na forma pesada tendem a...",
+    "a": [
+      "Elevar indevidamente a massa medida",
+      "Reduzir sempre a massa",
+      "Eliminar o analito",
+      "Impedir toda pesagem"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Elevar indevidamente a massa medida. O controle do precipitado evita perdas e contaminações na determinação de massa.",
+    "phase": 10
+  },
+  {
+    "id": "new-198",
+    "topic": "Gravimetria avançada",
+    "q": "O fator gravimétrico depende de...",
+    "a": [
+      "Relação estequiométrica entre analito e forma pesada",
+      "Cor da bancada",
+      "Marca do filtro",
+      "Tamanho do jaleco"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Relação estequiométrica entre analito e forma pesada. O controle do precipitado evita perdas e contaminações na determinação de massa.",
+    "phase": 10
+  },
+  {
+    "id": "new-199",
+    "topic": "Gravimetria avançada",
+    "q": "Uma precipitação incompleta pode resultar de...",
+    "a": [
+      "Solubilidade residual relevante nas condições do ensaio",
+      "Ausência de elétrons no solvente",
+      "Massa excessiva do cadinho",
+      "Cor do rótulo"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Solubilidade residual relevante nas condições do ensaio. O controle do precipitado evita perdas e contaminações na determinação de massa.",
+    "phase": 10
+  },
+  {
+    "id": "new-200",
+    "topic": "Gravimetria avançada",
+    "q": "Por que controlar a velocidade de adição do precipitante?",
+    "a": [
+      "Pode influenciar supersaturação e tamanho de partículas",
+      "Muda o número atômico",
+      "Elimina a gravidade",
+      "Impede dissolução do solvente"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Pode influenciar supersaturação e tamanho de partículas. O controle do precipitado evita perdas e contaminações na determinação de massa.",
+    "phase": 10
+  },
+  {
+    "id": "new-201",
+    "topic": "Gravimetria avançada",
+    "q": "O envelhecimento do precipitado em contato com a solução-mãe pode...",
+    "a": [
+      "Melhorar características cristalinas em certos sistemas",
+      "Sempre destruir o sólido",
+      "Converter metal em gás nobre",
+      "Eliminar a necessidade de lavar"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Melhorar características cristalinas em certos sistemas. O controle do precipitado evita perdas e contaminações na determinação de massa.",
+    "phase": 10
+  },
+  {
+    "id": "new-202",
+    "topic": "Gravimetria avançada",
+    "q": "O que significa secagem até massa constante?",
+    "a": [
+      "Repetir secagem, resfriamento e pesagem até atender critério",
+      "Secar por tempo arbitrário sem pesar",
+      "Aquecer até fundir sempre",
+      "Adicionar água até dissolver"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Repetir secagem, resfriamento e pesagem até atender critério. O controle do precipitado evita perdas e contaminações na determinação de massa.",
+    "phase": 10
+  },
+  {
+    "id": "new-203",
+    "topic": "Gravimetria avançada",
+    "q": "O que diferencia calcinação de simples secagem?",
+    "a": [
+      "Pode provocar transformações químicas e exige temperaturas mais altas",
+      "Sempre ocorre em temperatura ambiente",
+      "Nunca altera o sólido",
+      "É realizada em bureta"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Pode provocar transformações químicas e exige temperaturas mais altas. O controle do precipitado evita perdas e contaminações na determinação de massa.",
+    "phase": 10
+  },
+  {
+    "id": "new-204",
+    "topic": "Gravimetria avançada",
+    "q": "A adsorção de íons na superfície do precipitado pode causar...",
+    "a": [
+      "Contaminação superficial",
+      "Mudança do elemento",
+      "Diminuição do número atômico",
+      "Ausência de equilíbrio"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Contaminação superficial. O controle do precipitado evita perdas e contaminações na determinação de massa.",
+    "phase": 10
+  },
+  {
+    "id": "new-205",
+    "topic": "Gravimetria avançada",
+    "q": "Por que escolher um precipitante seletivo?",
+    "a": [
+      "Reduzir coprecipitação de espécies indesejadas",
+      "Aumentar contaminação",
+      "Eliminar necessidade de controles",
+      "Aumentar volume do laboratório"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Reduzir coprecipitação de espécies indesejadas. O controle do precipitado evita perdas e contaminações na determinação de massa.",
+    "phase": 10
+  },
+  {
+    "id": "new-206",
+    "topic": "Gravimetria avançada",
+    "q": "Qual condição favorece precipitados cristalinos maiores em muitos sistemas?",
+    "a": [
+      "Baixa supersaturação relativa",
+      "Mistura extremamente concentrada sempre",
+      "Resfriamento instantâneo sempre",
+      "Agitação nula obrigatória"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Baixa supersaturação relativa. O controle do precipitado evita perdas e contaminações na determinação de massa.",
+    "phase": 10
+  },
+  {
+    "id": "new-207",
+    "topic": "Gravimetria avançada",
+    "q": "O papel de filtro de baixo teor de cinzas é escolhido para...",
+    "a": [
+      "Minimizar resíduos minerais após incineração",
+      "Aumentar massa de cinzas",
+      "Medir pH",
+      "Substituir cadinho"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Minimizar resíduos minerais após incineração. O controle do precipitado evita perdas e contaminações na determinação de massa.",
+    "phase": 10
+  },
+  {
+    "id": "new-208",
+    "topic": "Gravimetria avançada",
+    "q": "O dessecante no dessecador serve para...",
+    "a": [
+      "Diminuir a umidade do ambiente interno",
+      "Aquecer a amostra",
+      "Aumentar a concentração do analito",
+      "Criar precipitado"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Diminuir a umidade do ambiente interno. O controle do precipitado evita perdas e contaminações na determinação de massa.",
+    "phase": 10
+  },
+  {
+    "id": "new-209",
+    "topic": "Gravimetria avançada",
+    "q": "A forma pesada ideal deve possuir...",
+    "a": [
+      "Composição conhecida e estabilidade adequada",
+      "Composição desconhecida",
+      "Umidade variável",
+      "Reatividade elevada com ar"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Composição conhecida e estabilidade adequada. O controle do precipitado evita perdas e contaminações na determinação de massa.",
+    "phase": 10
+  },
+  {
+    "id": "new-210",
+    "topic": "Gravimetria avançada",
+    "q": "A gravimetria por volatilização baseia-se em...",
+    "a": [
+      "Determinar massa relacionada a componente removido ou coletado como volátil",
+      "Somente observar cor",
+      "Medir pH por fita",
+      "Detectar cátions por chama"
+    ],
+    "correct": 0,
+    "explanation": "Resposta: Determinar massa relacionada a componente removido ou coletado como volátil. O controle do precipitado evita perdas e contaminações na determinação de massa.",
+    "phase": 10
+  }
+]
